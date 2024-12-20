@@ -1,0 +1,4704 @@
+2025
+
+THE TOP ETF
+INNOVATORS
+
+OPPORTUNITIES FOR REGISTERED INVESTMENT ADVISORS (RIAs),
+BD REPRESENTATIVES, BANKS, INSURANCE COMPANIES, HEDGE FUNDS,
+ENDOWMENTS, FOUNDATIONS, AND QUALIFIED RETIREMENT PLANS
+
+DIGITAL ACCESS: ETFS.THEWEALTHADVISOR.COM
+
+2025 THE TOP ETF INNOVATORS
+
+TABLE OF CONTENTS
+
+ABOUT OUR COVER
+
+EXECUTIVE SUMMARY................................................................ 3
+ACTIVE VS. PASSIVE ETFs:
+WHAT’S THE TRADE-OFF?........................................................... 4
+NECESSITY NEEDS INNOVATION................................................ 5
+THE EFFICIENT FRONTIER HITS A WALL................................... 5
+BEYOND THE RANDOM WALK.................................................... 7
+STORY FUNDS: NEW THEMES OLD FAITH................................ 7
+ALL THE FLAVORS IN THE MODERN MARKET......................... 8
+EVALUATING A FUND................................................................... 8
+THE TACTICAL FRONTIER......................................................... 10
+GO BEYOND THE PASSIVE SCREEN......................................... 10
+REFRESHER COURSE: WHY ETFs AT ALL?............................. 10
+KNOW THE RISKS....................................................................... 11
+THE COST STRUCTURE............................................................. 12
+THE RETURN PROFILE............................................................... 13
+CATEGORY AND STYLE.............................................................. 14
+FROM ASSET CLASS TO ALLOCATION.................................... 15
+ACTIVE MANAGER, ETF WRAPPER.......................................... 16
+DON’T FORGET TAX ALPHA...................................................... 16
+WHO OWNS THE SECURITIES?................................................. 17
+WHERE WE GO FROM HERE..................................................... 18
+TOP ETF INNOVATORS PROFILES
+Alpha Blue Capital.................................................................... 19
+Amplify ETFs............................................................................ 20
+BondBloxx Investment Management Corp.............................. 21
+Horizon Kinetics....................................................................... 22
+Hull Tactical.............................................................................. 23
+Innovator Capital Management................................................ 24
+Pacer ETFs............................................................................... 25
+Principal Asset Management................................................... 26
+Sprott Asset Management....................................................... 27
+Tema Global............................................................................. 28
+Touchstone Investments.......................................................... 29
+U.S. Global Investors............................................................... 30
+VanEck..................................................................................... 31
+EXCHANGE-TRADED FUNDS
+GLOSSARY OF TERMS............................................................... 32
+CONTRIBUTORS......................................................................... 34
+
+2
+
+W
+
+elcome to the ETF Grand Prix, where top
+exchange-traded funds compete for investor
+confidence. Leading the pack in terms of size is the
+seasoned SPY, a
+veteran on the S&P
+500 circuit. Close
+behind is QQQ,
+expertly navigating
+the tech sector’s
+twists and turns.
+Meanwhile, VTI,
+steady and reliable,
+represents the
+2025
+entire U.S. market.
+SPECIAL
+FUTURE PROOF
+EDITION
+
+THE TOP ETF
+INNOVATORS
+
+The stands are
+filled with eager
+investors—ranging
+from boutique retail
+traders to seasoned
+Illustration by Daniel Hertzberg
+fund managers—
+each with an eye
+on the ETF that could mark the difference between
+financial victory or missed opportunity.
+OPPORTUNITIES FOR REGISTERED INVESTMENT ADVISORS (RIAs),
+BD REPRESENTATIVES, BANKS, INSURANCE COMPANIES, HEDGE FUNDS,
+ENDOWMENTS, FOUNDATIONS, AND QUALIFIED RETIREMENT PLANS
+
+DIGITAL ACCESS: ETFS.THEWEALTHADVISOR.COM
+
+As the race unfolds, different ETFs excel on various
+parts of the track. VOO and IVV dominate the lowcost straightaway, while sector-specific funds like
+XLF and XLK handle the economic cycle’s tricky
+curves. International ETFS add flair, maneuvering
+through global market challenges.
+But this is no ordinary race—the track mirrors the
+ever-changing financial landscape. ETFs must
+adapt on the fly, with analysts and fund managers
+constantly refining strategies to stay competitive.
+For discerning investors, the key is to look beyond
+the surface. Which ETFs deliver consistent
+performance? Which adapt to market changes?
+And, most importantly, which align with your
+clients’ investment goals—whether it’s the steady
+pace of a broad-market index or the excitement of
+a niche sector?
+As you explore our ETF guide, think of yourself as
+both a spectator and team manager. These insights
+will help identify potential champions, understand
+strategies and make informed decisions about
+which ETFs deserve a place in your portfolio.
+Buckle up, and get ready for the race.
+
+2025 THE TOP ETF INNOVATORS
+
+THE TOP ETF
+INNOVATORS
+OF 2025
+SCOTT MARTIN
+EDITOR-IN-CHIEF
+ETF INNOVATORS
+
+A lot of advisors I talk to are hungry
+for fresh ideas. Suddenly, after a
+decade of relative calm, we have
+problems worth solving.
+Whatever broke in the last few years
+needs to be fixed. And as part of that
+process, every component of the
+portfolio needs to be tested, refined
+and, where necessary, replaced.
+It’s a daunting task. But there’s help.
+Money managers didn’t spend the
+last decade asleep and dreaming of
+index funds. They kept innovating.
+Pushing the science
+You just won’t find a lot of these
+fresh ideas on standard fund
+screens. They’re under the surface,
+submerged in the status quo of
+literally thousands of look-alike
+index products with copycat
+characteristics and “me too”
+attitude.
+That’s why I talked to managers,
+strategists and advisor liaisons
+at established ETF companies
+and upstarts alike, to get those
+ideas in front of you and into your
+professional tool kit. If you’ve got a
+problem, there’s got to be something
+here that helps.
+
+Exchange-traded funds (ETFs) have become a staple
+in the portfolios of investors worldwide, offering a
+versatile, cost-effective way to access a broad spectrum
+of assets. Whether you’re a seasoned investor or a
+novice just starting out, the ever-evolving landscape of
+ETFs presents both opportunities and challenges that
+can significantly impact your investment strategy.
+In recent years, the world of ETFs
+has seen rapid innovation, with active
+ETFs gaining traction alongside the
+more traditional passive options.
+
+preference; it’s a strategic decision
+that hinges on factors such as cost
+efficiency, performance potential, and
+transparency.
+
+Active ETFs are projected to account
+for 24% of total fund assets by 2027,
+representing about $14 trillion globally.
+The rise of active ETFs has been fueled
+by regulatory changes, such as the
+Securities and Exchange Commission
+(SEC) Rule 6c-11, which allows new
+structures and greater flexibility for fund
+managers. It has opened the door for
+more sophisticated, actively managed
+strategies that aim to outperform
+the market—a stark contrast to the
+passive ETFs that simply aim to mirror
+the performance of a specific index or
+benchmark. As a result, investors now
+face a key decision: should they stick
+with the tried-and-true approach of
+passive ETFs or explore the potentially
+higher returns—and higher risks—
+active ETFs offer?
+
+Beyond the active vs. passive debate,
+the ETF market has also been
+shaped by the need for continuous
+innovation. In today’s complex
+investment environment, simply relying
+on traditional strategies may not be
+enough. The efficient frontier—the
+sweet spot where risk and return are
+optimized—is constantly shifting, and
+investors must adapt their strategies
+accordingly. This guide will help you
+navigate these changes, offering
+insights into the trade-offs between
+different types of ETFs and how to
+position your portfolio for success
+in this dynamic landscape. Whether
+you’re looking to stick with the
+simplicity of passive ETFs or explore
+the cutting-edge strategies that active
+management offers, understanding
+the current ETF environment is crucial
+to making informed investment
+decisions.
+
+The choice between active and passive
+ETFs is more than just a matter of
+
+3
+
+2025 THE TOP ETF INNOVATORS
+ACTIVE VS. PASSIVE ETFs:
+WHAT’S THE TRADE-OFF?
+ETFs have undergone a notable
+transformation in recent years,
+particularly with the rise of active
+ETFs. The shift has opened new
+avenues for investors seeking marketbeating returns while retaining the
+benefits of an ETF structure. Still,
+when it comes to choosing between
+active and passive ETFs, investors
+often face a key trade-off: the
+potential for outperformance versus
+cost efficiency and simplicity. To
+understand the trade-offs between
+active and passive ETFs, it’s essential
+to delve into their key characteristics,
+market trends, and the implications for
+investors.
+Active ETFs have emerged as a
+prominent trend, driven by regulatory
+changes and a growing appetite for
+active management strategies, thanks
+in part to the SEC’s Rule 6c-11, which
+took effect in December 2019. The
+rule, allowing for non-transparent and
+semi-transparent ETF structures, has
+empowered managers with greater
+flexibility in portfolio management
+while protecting their holdings. While
+the rule applies to both passive and
+active open-ended funds, several key
+changes have addressed previous
+limitations on active ETFs and created
+a more favorable environment for
+active management.
+Key provisions of the rule include:
+1. Custom Basket Flexibility: The
+rule permits ETFs to use custom
+baskets, enhancing portfolio
+management, tax efficiency, and
+the ability to accommodate inkind creations and redemptions.
+2. Simplified Approval Process:
+The rule standardizes the
+approval process for ETFs,
+reducing the need for individual
+exemptive relief applications and
+making it easier for sponsors to
+bring new ETFs to market.
+3. Enhanced Transparency: ETFs
+must now disclose daily portfolio
+holdings on their websites,
+increasing transparency for
+investors.
+
+TYPES OF
+
+ETFs
+Exchange-Traded
+Funds
+
+4. Harmonized Exemptive Relief:
+By eliminating the need for most
+ETFs to seek individual exemptive
+relief, the regulatory process has
+been simplified, benefiting both
+sponsors and investors.
+Let’s look closer at the differences
+between passive and active ETFs.
+Passive ETFs are designed to replicate
+the performance of a specific index
+or benchmark. They are often favored
+for their cost efficiency, with expense
+ratios typically 2 to 3 basis points
+lower than those of mutual funds. The
+cost-effectiveness, combined with
+high liquidity and tax advantages,
+makes passive ETFs an attractive
+option for many investors. They are
+particularly useful for achieving broad
+market exposure and are widely used
+for diversified investments in stocks
+and bonds.
+Active ETFs, on the other hand, are
+managed by fund managers who
+actively select securities with the aim of
+
+4
+
+outperforming an index or benchmark.
+These ETFs can focus on specific
+themes or innovative beta strategies,
+providing potential for higher returns.
+However, this active management
+comes with higher costs compared to
+passive ETFs. Investors in active ETFs
+are betting on the expertise of the fund
+manager to generate alpha, or excess
+returns above the benchmark.
+The trade-offs with actively managed
+ETFs include:
+1. Cost Efficiency: Passive ETFs
+generally have lower expense
+ratios thanks to their automated
+management approach. Active
+ETFs incur higher management
+fees, reflecting the cost of
+research, analysis, and active
+decision-making.
+2. Performance Potential: While
+passive ETFs aim to match
+market returns, active ETFs seek
+to beat them. This different focus
+could lead to higher returns if
+
+2025 THE TOP ETF INNOVATORS
+the fund manager’s strategy
+succeeds, but it also introduces
+the risk of underperformance if
+the manager’s decisions do not
+pan out.
+3. Transparency and Flexibility:
+Passive ETFs offer straightforward
+transparency by tracking an
+index, whereas active ETFs
+provide a more complex, but
+potentially more nuanced, picture.
+Rule 6c-11 has introduced a level
+of semi-transparency for active
+ETFs, but it may still be less
+transparent than passive options.
+4. Investment Strategy: Passive
+ETFs are ideal for investors
+seeking a low-cost, diversified
+approach with predictable
+outcomes. Active ETFs cater to
+those looking for higher returns
+through strategic management
+and who are willing to accept
+higher costs and risks associated
+with active investing.
+Globally, the trend toward cost
+efficiency has bolstered the popularity
+of passive ETFs. However, the rise
+of active ETFs, particularly with
+the new regulatory frameworks,
+suggests a growing adoption of active
+management strategies. The balance
+between cost and performance
+remains a critical consideration for
+investors.
+The choice between active and
+passive ETFs depends on an investor’s
+objectives, risk tolerance, and
+preference for cost versus potential
+return. While passive ETFs provide a
+cost-effective, diversified approach
+with lower fees, active ETFs offer the
+opportunity for higher returns at the
+expense of higher costs and greater
+risk. As the ETF landscape continues
+to evolve, understanding these tradeoffs will be crucial for making informed
+investment decisions.
+
+NECESSITY NEEDS INNOVATION
+In recent years, many aspects of the
+investment landscape have faced
+significant challenges, and that means
+every part of the portfolio must be
+
+tested, refined, and, when necessary,
+replaced. It’s a daunting task, but
+there’s good news: money managers
+have been diligently at work. Over the
+past decade, they’ve been innovating
+and rigorously testing new strategies
+to address the gaps in the market and
+solve real problems advisors face.
+However, many of these new ideas
+aren’t easily spotted on standard
+fund screens—they’re often hidden
+beneath the surface, overshadowed
+by the vast number of similar index
+products that blend into the crowd.
+That’s why we reached out to managers, strategists, and advisor liaisons
+at both established ETF companies
+and innovative startups to bring these
+ideas to the forefront and add them to
+your professional tool kit.
+Even if everything seems to be working just fine, there’s always room for
+improvement. We continuously learn,
+benchmark, innovate, and integrate
+the best new ideas to stay ahead of
+the curve. But before we dive into
+solutions, let’s start by identifying the
+problems.
+
+THE EFFICIENT FRONTIER
+HITS A WALL
+In the world of investing, there’s always
+a delicate balance between risk and
+returns. The sweet spot is where you
+achieve the highest possible return
+for a given level of risk, known as the
+efficient frontier—a concept rooted in
+modern portfolio theory. But here’s the
+catch: the efficient frontier isn’t fixed—
+it’s constantly evolving as markets shift
+and new challenges arise, demanding
+continuous adaptation from investors.
+For mass affluent and ultra-high-networth (UHNW) individuals, identifying
+the right position on this evolving frontier
+is vital and heavily influenced by their
+unique financial situations and goals.
+Here’s how this concept plays out,
+especially when considering ETFs:
+• Balancing Risk and Return:
+Both mass affluent and UHNW
+individuals want good returns
+without taking on unnecessary
+risk. For these investors,
+
+5
+
+INVESTORS
+WORLDWIDE
+PRIORITIZE COST
+EFFICIENCY
+AND DEMAND
+HIGH-QUALITY
+INVESTMENT
+OPTIONS.
+positioning portfolios on the
+efficient frontier involves selecting
+investments that strike this
+balance, offering a favorable tradeoff between risk and return.
+• Diversification: ETFs are great
+for spreading investments across
+various asset classes, sectors,
+and regions. This diversification
+reduces the impact of any single
+investment going wrong and helps
+improve risk-adjusted returns.
+For both groups, portfolios on the
+efficient frontier should include
+diversified ETFs.
+• Cost Efficiency: ETFs generally
+have lower management fees
+compared to actively managed
+funds. For those who prioritize
+cost efficiency, selecting low-cost
+ETFs that align with the efficient
+frontier can significantly enhance
+net returns. This cost advantage
+is especially relevant for investors
+looking to maximize their financial
+outcomes while keeping expenses
+in check.
+• Liquidity: The liquidity of ETFs
+allows investors to easily buy
+or sell shares, offering flexibility
+in portfolio management. For
+individuals who require this level
+of adaptability, portfolios that
+feature highly liquid ETFs provide a
+practical advantage.
+• Customization: UHNW investors
+often demand bespoke investment
+
+2025 THE TOP ETF INNOVATORS
+solutions tailored to their specific
+preferences and needs. The
+efficient frontier accommodates
+this need by including options
+for customization, such as
+sector-specific or factor-based
+ETFs. These tailored solutions
+help UHNW individuals align
+their portfolios with their unique
+financial objectives.
+Efficiency in investing is about making
+the most of what you have to work
+with, aiming for an ideal within the
+boundaries of the current market
+landscape. But what happens when
+the standard itself changes? Traditional
+strategies may falter. For example,
+the simple, passive strategies that
+once worked in a post-2008 era have
+started to crack under pressure. Fixed
+income allocations, traditionally seen
+as safe havens, failed to provide the
+protection investors expected when
+the Federal Reserve began tightening.
+
+Bonds, which were supposed to be
+reliable, turned volatile, shaking the
+confidence of many investors.
+Similarly, reliance on broad market
+indexes such as the S&P 500 (SPY)
+is proving insufficient for today’s
+investors. While these indexes offer
+valuable insights, they lack the tailored
+approach that modern clients demand.
+Wealth management has evolved
+beyond securing average returns—it
+now involves helping clients achieve
+specific, personalized financial goals,
+whether that means seeking higher
+returns or mitigating risk.
+The reality is that the efficient frontier we
+once knew has shifted. The models that
+guided portfolio construction in the past
+may no longer align with the current
+market environment.
+And while your clients think they
+can do it on their own, they can’t.
+
+Remember, according to DALBAR,
+the average equity fund investor
+underperformed the S&P 500 by 5.5%
+in 2023, marking the third-largest gap
+in a decade—and in a normally bullish
+year at that.
+The performance gap largely
+resulted from emotional decisionmaking, with investors often selling
+during downturns and missing out
+on subsequent rebounds. Despite
+optimal portfolio allocations designed
+to balance risk and reward, many
+investors succumbed to loss
+aversion during market declines,
+particularly following 2022, and missed
+out on the recovery.
+To continue delivering value, we
+need to redefine what efficiency and
+perfection mean in today’s terms. The
+key is to refine strategies, embrace
+innovation, and build portfolios that are
+resilient to new challenges.
+
+COMPARISON OF ETFs VS. MUTUAL FUNDS FROM AN INVESTOR’S POV
+
+1
+2
+3
+4
+5
+
+6
+
+TOTAL COSTS OF OWNERSHIP
+The overall cost of owning ETFs compared to mutual funds is
+generally comparable and can vary based on factors such as
+the investor’s profile, fund type, and asset class
+
+7
+
+TOTAL EXPENSE RATIO
+ETFs typically have a lower expense ratio due to factors
+such as the absence of a transfer agent, wider distribution
+capabilities, and increased price visibility and competition on
+exchanges
+TRADING FEES
+Retail investors are more likely to be impacted by additional
+expenses associated with ETFs, such as trading fees,
+compared to institutional investors
+
+8
+
+TAX ADVANTAGES
+The US ETF market has experienced substantial growth,
+partly due to the significant tax advantages that ETFs enjoy
+compared to mutual funds
+
+9
+
+LIQUIDITY
+ETFs offer greater liquidity compared to mutual funds because
+ETFs can be traded throughout market hours, while mutual
+funds only execute orders once a day
+6
+
+INVESTMENT MINIMUMS
+ETFs generally have lower investment minimums, making
+them more accessible to retail investors and providing greater
+ease of access compared to other investment options.
+TRANSPARENCY
+ETFs offer a higher level of transparency compared to mutual
+funds. ETFs typically provide daily disclosure of their holdings,
+except for se-mi transparent ETFs, allowing investors to have
+more frequent access to information about the underlying
+securities. In contrast, mutual funds typically disclose their
+holdings on a quarterly basis.
+INNOVATION
+Recent data suggests that the launch of new funds in the ETF
+space is gaining market share, partially due to the reduced
+infrastructure costs associated with introducing ETFs.
+ACCESSIBILITY
+ETFs offer greater accessibility to the general public compared
+to mutual funds, as they are traded on exchanges and do not
+require an intermediary for transactions.
+
+2025 THE TOP ETF INNOVATORS
+
+THE “RANDOM WALK” NARRATIVE
+WORKS WHEN YOU WANT PEOPLE TO
+FORGET ABOUT THEIR CONCERN AND
+DISENGAGE FROM THE PROCESS.
+In a constantly changing landscape,
+the pursuit of an investment ideal
+is an ongoing process. Investors
+and advisors must learn from past
+experiences, adapt to new realities,
+and ensure that their strategies remain
+aligned with evolving definitions of the
+efficient frontier. By staying informed and
+responsive to market shifts, they can
+better position their clients for success,
+regardless of how the landscape of
+investing evolves.
+
+BEYOND THE RANDOM WALK
+The allure of passive strategies such as
+those involving the S&P 500 and similar
+index funds can be strong. They offer
+the comfort of a familiar, well-trodden
+path that leads the way. But what if
+your clients are seeking something
+beyond the standard route?
+The investing landscape has shifted
+significantly since the days when
+Burton Malkiel’s “random walk” theory
+suggested that passive investing
+was the best way to go. Malkiel’s
+theory argues that stock prices
+move unpredictably and it’s nearly
+impossible to consistently outperform
+the market through stock picking, so
+holding a diversified portfolio may be
+most beneficial long term. However,
+the theory may not hold as strongly
+today due to increased market
+complexity, information asymmetries,
+and the significant influence of a few
+dominant technology companies,
+which can skew traditional riskreturn assumptions and diminish the
+effectiveness of passive strategies.
+The concentration of big tech
+dominating the market, often referred
+to as the “Magnificent Seven,” makes
+proper diversification tricky, especially if
+your clients are already heavily invested
+in these tech magnates. The handful
+
+of high-volatility giants can distort the
+risk-return balance that once made
+the S&P 500 so appealing. Although
+these stocks have performed well
+and earned their place at the top,
+as they grow, the index becomes
+more concentrated, and with that
+concentration comes increased
+volatility, which makes it harder to
+mitigate risk when things go awry.
+In response to these changes, many
+investment managers are exploring
+more active strategies to enhance their
+clients’ portfolios. Instead of completely
+overhauling the S&P 500, some
+managers are reweighting portfolios to
+increase cash yield, which might only
+provide a 1% advantage but can have a
+meaningful impact. This strategy could
+help cover fees, offset low bond yields,
+or even assist with required minimum
+distributions, offering a smoother
+investment experience in turbulent times.
+Other managers are revisiting
+traditional stock-picking techniques,
+focusing on quality over sheer
+market size. This approach aligns
+with the belief that successful wealth
+management involves more than
+just tracking the market—it requires
+making informed, research-driven
+decisions that add value over time.
+By selecting high-quality stocks and
+fostering a deeper connection between
+investors and their investments,
+advisors can offer a more personalized
+and engaging experience. Clients
+often want to feel a connection to
+the companies they invest in, rather
+than just owning a slice of the market.
+Advisors can guide them on this
+journey and explain the story behind
+their investments.
+While passive investing offers a
+straightforward approach, the evolving
+market landscape suggests that a more
+
+7
+
+nuanced strategy might be necessary.
+By integrating active management
+and exploring alternative theories,
+advisors can provide clients with more
+personalized, engaging investment
+experiences, potentially uncovering
+unique opportunities beyond the
+traditional index fund route.
+
+STORY FUNDS: NEW
+THEMES, OLD FAITH
+While tweaking the core of a portfolio
+can add some stability or boost
+returns, the real magic happens on the
+edges and beyond the numbers, where
+you can connect with your clients by
+telling them the stories behind their
+investments.
+Sometimes, these narratives are purely
+economic, where you generate alpha
+and improve your client’s financial
+position, and there’s no shortage of
+thematic funds that cater to almost
+every narrative you can imagine.
+However, economic gains aren’t the
+only aspect of client satisfaction.
+The power of thematic investing lies
+in aligning investments with clients’
+interests and values to enhance their
+engagement. Find out what your
+clients are passionate about and
+get them involved. It’s not just about
+making money—it’s about making
+them feel connected to what their
+money is being invested in.
+“Disruption” funds rely heavily on
+the manager’s ability to predict
+future trends accurately. Investing in
+innovative technologies, businesses,
+and emerging industries that may
+challenge the status quo embodies
+classic active management: aiming to
+outperform the market by anticipating
+where it’s heading. In an era dominated
+by passive index funds, investing in
+unique disruption funds may offer
+valuable diversification benefits.
+Then there are more specialized
+thematic funds, which focus on niche
+interests that may not be covered by
+traditional-broad market funds. While
+some have been criticized for chasing
+trends, there’s a renewed emphasis on
+integrating them into portfolios to meet
+specific investment goals and engage
+clients with emerging technologies and
+industries.
+
+2025 THE TOP ETF INNOVATORS
+Similarly, high-impact bets in
+specialized and thematic areas can
+be more volatile, leading to significant
+gains or losses. However, when
+successful, they can be transformative
+and make clients feel more connected
+to their investments. The ones that
+don’t pan out aren’t large enough to
+cause significant damage, but the
+ones that do can be game-changers.
+And when they succeed, your clients
+won’t just see them as investments—
+they’ll see them as victories.
+While adjustments to the core of
+a portfolio can offer stability and
+potential gains, the true value often
+lies in the more individualized and
+innovative aspects of investing—
+where stories and personal
+connections elevate the investment
+experience. Thematic funds, whether
+driven by economic gains or personal
+values, offer a chance to deeply
+engage clients by aligning their
+investments with their passions and
+interests.
+
+ALL THE FLAVORS IN THE
+MODERN MARKET
+What have we learned so far? You can
+reach for better outcomes than the
+random walk. It’s possible. Over time,
+that’s worth something.
+And this is essential after “business
+as usual” hits a wall and reveals its
+limitations. We learn. We evolve.
+“Modern” portfolio theory is now 70
+years old. It has been refined a lot along
+the way and keeps getting better.
+After all, the last decade wasn’t all
+about consolidating popular ideas into
+gigantic fund complexes. The world
+has changed a lot.
+Whole asset classes emerged out of
+nowhere. Others got the technological
+and regulatory lift they needed to make
+the leap from institutional environments
+to the ETF format.
+Think private equity and private debt.
+Think derivatives. Think pure hedge
+fund: all of the return characteristics,
+no complicated structure or qualified
+investor hurdles to jump.
+
+EVALUATING A FUND
+There’s more to life than performance.
+Even with funds that ostensibly
+mirror the same index, you need to
+be conscious of “tracking error” and
+“tracking difference.”
+
+Assess the total cost of ETF
+ownership, comprising transaction
+costs and annual management fees.
+Beyond immediate costs, consider
+potential taxes and associated risks to
+determine the actual total cost.
+
+Tracking difference measures how
+closely the ETF tracks the index
+returns, while tracking error indicates
+the consistency of monitoring quality
+over time. Both metrics are equally
+important for determining the ETF’s
+ability to mirror its index accurately.
+
+Different types of ETFs entail varying
+levels of risk. ETFs holding foreign
+securities are subject to exchange
+rate movements, while those investing
+in bonds are sensitive to interest
+rate fluctuations. ETFs focused on
+emerging markets and commodities
+may face extreme market conditions.
+
+Additionally, the choice of ETF provider
+is significant in performance evaluation.
+With a plethora of ETF providers in the
+market, factors such as size, scale,
+expertise, and commitment vary widely.
+Trust in the provider’s technology
+capabilities to manage costs and risks
+efficiently is vital.
+Understanding the underlying index
+is also essential. ETFs closely follow
+specific indexes or sectors. Indexes
+employ varying selection rules for their
+holdings, so selecting the correct index
+is crucial.
+Consider your client’s investment
+objectives when choosing an ETF. Do
+they actively seek exposure to countryspecific, regional, or global assets?
+Which sectors or asset classes are
+they interested in? This consideration
+helps tailor your ETF selection to align
+with their investment goals.
+ETFs have two primary structures:
+physical and synthetic. Physical ETFs
+hold the underlying assets of the index,
+while synthetic ETFs use derivatives
+to replicate index performance.
+Each structure has advantages and
+disadvantages, impacting risk levels
+and management costs.
+Understanding the trading mechanics
+of ETFs is crucial. ETFs, like stocks,
+can be traded throughout the trading
+hours of the exchange, enhancing
+liquidity compared to managed funds.
+Awareness of trading times and
+liquidity layers is essential for practical
+trading strategies.
+
+8
+
+In summary, prioritize performance
+evaluation, index selection, and ETF
+structure alignment with your client’s
+investment objectives. Assess total
+costs comprehensively and choose a
+reputable ETF provider with the right
+technology and track record.
+
+Advisors’ fiduciary duty when choosing
+an ETF: The primary fiduciary law governing financial advisors in the United
+States is the Employee Retirement
+Income Security Act (ERISA) of 1974.
+Under ERISA, financial advisors who
+are considered fiduciaries must adhere
+to the fundamental principles of duty of
+loyalty, duty of prudence, duty of diversification, and duty of disclosure.
+In addition to ERISA, the SEC has
+introduced regulations to establish
+a fiduciary duty for financial advisors
+who provide investment advice to retail
+clients. The SEC’s Regulation Best
+Interest (Reg B.I.), implemented in
+2020, requires brokers and investment
+advisors to act in the best interests
+of their retail clients when making
+investment recommendations.
+
+How advisors pick a fund: Below is a
+non-exhaustive list of some specific
+obligations that an advisor has when
+choosing an ETF for a client.
+Suitability: The advisor must ensure
+that the chosen ETF is suitable for
+the client’s investment objectives,
+risk tolerance, time horizon, financial
+situation, and any other relevant factors.
+Due diligence: The advisor has a
+responsibility to conduct thorough
+research and due diligence on their
+
+2025 THE TOP ETF INNOVATORS
+recommendations, including analyzing
+the ETF’s investment strategy,
+performance track record, expense
+ratio, underlying assets, and provider’s
+reputation and track record.
+
+•
+•
+•
+•
+•
+
+Disclosure of risks and fees: The
+advisor must provide clear and
+accurate information about the risks
+associated with investing in the ETF—
+including market risks, liquidity risks,
+and any specific risks related to the
+ETF’s investment strategy or underlying
+assets—and disclose all fees and
+expenses associated with the ETF.
+
+When considering these changes,
+advisors must weigh the costs of
+transactions, potential tax implications,
+and the impact on the overall investment
+strategy to ensure the portfolio remains
+aligned with the client’s goals, risk
+tolerance, and investment horizon.
+
+Monitoring and review: Once an ETF is
+selected, the advisor has an ongoing
+obligation to monitor the performance
+and suitability of the investment.
+
+Cost efficiency
+Improved solution availability
+Tax considerations
+Liquidity concerns
+Divergence from investment thesis
+
+The suitability question: When selecting an ETF or creating a sleeve
+for ETFs, several considerations can
+
+impact the best choice to meet client’s
+investment goals and risk tolerance.
+Advisors should:
+• Define investment objectives
+• Assess risk tolerance
+• Determine the asset allocation
+• Evaluate diversification
+• Research ETFs
+• Analyze holdings
+• Integrate tracking error
+• Gauge liquidity
+• Analyze tax efficiency
+• Evaluate performance
+• Consider costs
+• Review fund providers
+• Determine suitability and fit
+
+MAKE ROOM FOR INNOVATION
+
+Conflict of interest disclosure: If
+the advisor or their firm receives
+compensation or incentives for
+recommending a particular ETF, they
+must disclose these conflicts of interest
+to the client and ensure that their
+recommendations are based on the
+client’s best interests.
+
+1. Does this ETF improve on an existing holding?
+
+How to pick a fund for your client:
+There is no specific formula for selecting a client portfolio’s “correct” ETFs.
+However, financial advisors typically follow a systematic approach. In addition
+to the client’s investment objectives,
+risk tolerance, and overall investment
+style and strategy, key factors that help
+ensure suitability include:
+• Asset allocation
+• Index or strategy selection
+• Expense ratio and fees
+• Liquidity and trading volume
+• Provider and reputation
+• Market conditions and outlook
+• Investment style and strategy
+• Client preferences and restrictions
+• Performance and historical data
+
+Once you’ve found a fund that performs a particular investment function
+better than something in your client’s portfolio, it’s time to make a switch.
+
+When an old fund isn’t working: An advisor might consider selling or replacing one or more ETFs to, for example,
+optimize the portfolio’s performance,
+adjust the risk profile, or respond to
+changing market or economic conditions. The advisor will consider:
+• Performance reassessment
+• Asset allocation adjustment
+• Sector or theme rotation
+
+2. Does this ETF enhance my portfolio?
+Answers to these questions are often personal. They depend on your client’s
+immediate and long-term priorities and goals. Maybe they need current
+income. Maybe they’re looking for a long-term payoff and are willing to
+tolerate years or even decades of frustration.
+
+If you’re 100% convinced that the new solution is superior, sell out of the old
+position and replace it with the new one.
+Otherwise, rotate out of the old and into the new on an incremental basis
+to give the new holding a chance to verify that it provides an enhanced
+experience.
+And when you are unhappy with a given allocation, that’s an incentive to look
+harder for a replacement. You might need to pay higher fees for higher returns,
+a smoother glide path or some other benefit. That’s how this goes.
+At a minimum, everything in the portfolio needs to be competitive according
+to whatever criteria matter to you. If fees matter, go for a low-cost provider
+that can at least match the category benchmark. If performance matters, look
+for alpha and be prepared to pay the price. Correlation and volatility (or the
+lack thereof) can also be important factors.
+Keep in mind that some ETFs do not fit into the standard asset class scheme.
+“Modern” portfolio needs to keep evolving or it rapidly becomes obsolete.
+A fund may blur conventional allocation lines: maybe it’s an “alternative”
+investment or a new approach to standard stocks, bonds or even cash.
+When there isn’t an existing sleeve in the portfolio to open up to something
+good, maybe it’s time to take a few percentage points from other allocations
+to make it happen.
+
+9
+
+2025 THE TOP ETF INNOVATORS
+THE TACTICAL FRONTIER
+You don’t need to travel to exotic
+places to find places where innovation
+makes a difference. Even asset
+management complexes that once
+distributed their ideas only through
+managed accounts and proprietary
+fund placements are now opening up
+to the exchange-traded mind-set.
+When it comes to innovation in
+investing, you don’t need to look far to
+find cutting-edge strategies. Even firms
+that once reserved their best strategies
+for managed accounts or proprietary
+funds are now embracing ETFs.
+Advisors can now tap into exclusive
+strategies from top-tier names like
+DFA, AllianceBernstein, and Goldman
+Sachs—without compromising on
+diversification or performance. In fact,
+traditional mutual funds may actually
+lag behind in terms of fee efficiency
+and tax treatment.
+These firms have spent years
+perfecting world-class trading and
+portfolio construction systems to
+squeeze out every bit of alpha. Now,
+they’re packaging those strategies in
+ETFs that are accessible to any advisor.
+The once-elite insights from Wall
+Street’s top banks are now available
+on the open market, giving everyone a
+chance to benefit. And these firms are
+constantly innovating, introducing new
+core strategies designed to challenge
+even the NASDAQ.
+Proprietary traders, for example, are
+layering options around indexes to
+generate current income. These are
+brand new strategies, and being early
+to the game can give your clients a
+significant advantage. The level of
+sophistication involved means that
+while you might be able to manage it
+yourself, you probably wouldn’t want
+to—leaving you free to focus on other
+areas where you can add value.
+For those who cling to the “hold
+forever” mind-set, it’s worth reminding
+them that there are always new
+opportunities to explore. You can help
+your clients move beyond the standard
+“random walk” approach and show
+them something different, something
+
+GIVE US ACCESS TO
+THE KEYS TO THE
+CASTLE, AND LET
+EVERYONE PICK
+THE VERSION THAT
+WORKS BEST FOR
+EACH CLIENT.
+that might just outperform the
+benchmarks. Consider, for example,
+the fund-of-CEFs (Closed-End Funds)
+approach, which combines the steady
+income of traditional bonds with the
+potential for capital appreciation of
+stocks.
+With more distribution channels opening
+up, more advisors have access to more
+sophisticated tools. It’s all about finding
+the right fit for each client.
+
+GO BEYOND THE PASSIVE
+SCREEN
+The evolving world of ETFs offers
+boundless opportunities, with
+innovative options like single-stock
+ETFs, metaverse funds, and specialpurpose acquisition company ETFs.
+But with thousands to choose from,
+finding the right fit can be daunting,
+and it can be tempting to lean on
+familiar ways.
+Don’t limit yourself to just one source.
+Listen to what other advisors are
+saying, keep an ear to the ground on
+financial media, and consider more
+than just the numbers. The market
+is full of potential winners, and while
+being the first to adopt a new ETF
+might seem appealing, it’s not always
+the smartest move.
+Instead, let the market do some of the
+heavy lifting. Let others beta-test new
+products and see how they perform
+in the real world. Consider jumping
+in when an ETF’s assets reach a
+certain threshold, say $1 billion. A live
+track record will provide real-world
+insights that backtests simply can’t,
+
+10
+
+and watching how a fund performs
+during market ups and downs will
+help build your confidence in its future.
+Remember, the more assets a fund
+attracts, the better its liquidity, which in
+turn reduces trading costs. And if the
+broader market is flowing money into
+a particular ETF, chances are it’s onto
+something good. Keep your eyes and
+ears open, there’s more than one way
+to find an opportunity.
+
+REFRESHER COURSE:
+WHY ETFs AT ALL?
+Many advisors love exchange-traded
+funds, and for good reason:
+Diversification: ETFs offer exposure
+to various assets, such as stocks,
+bonds, commodities, or sectors. This
+diversification helps reduce risk by
+spreading investments across multiple
+holdings.
+Cost-effectiveness: ETFs typically
+have lower expense ratios than
+mutual funds. This is because ETFs
+are passively managed and aim to
+replicate the performance of a specific
+index rather than actively selecting and
+managing individual securities.
+Liquidity: ETFs trade on stock
+exchanges throughout the day,
+allowing investors to buy or sell shares
+at market prices. This liquidity provides
+flexibility and ease of trading, especially
+during volatile market conditions.
+Transparency: ETFs provide
+transparency as they disclose their
+holdings daily. Investors can see
+the underlying securities and their
+weightings, enabling them to make
+informed investment decisions. Mutual
+funds, on the other hand, typically
+disclose their holdings quarterly.
+Tax efficiency: ETFs are structured
+in a way that can be more tax-efficient
+compared to mutual funds. Due to
+their unique creation and redemption
+process, ETFs can minimize capital
+gains distributions, potentially reducing
+tax liabilities for investors.
+Flexibility: ETFs provide flexibility in
+terms of investment strategies and
+asset classes. Investors can choose
+
+2025 THE TOP ETF INNOVATORS
+ETFs aim to mirror the performance
+of renowned indexes such as the
+S&P 500, offering exposure to broad
+market movements or specific
+segments. You can effectively diversify
+any investment portfolio or tailor risk/
+return characteristics by combining
+different ETFs representing diverse
+asset classes or industries.
+
+from a wide range of ETFs that cover
+various market segments, sectors,
+geographic regions, or investment
+themes, allowing them to tailor their
+portfolios to their specific investment
+objectives.
+However, some advisors have been
+more reluctant, preferring to keep
+clients in conventional 40 Act mutual
+funds or individual securities. But
+remember, diversifying a portfolio with
+ETFs is hassle-free.
+
+KNOW THE RISKS
+The broad spectrum of securities
+within ETFs can help mitigate risk; if
+a few holdings decline in value, the
+remaining assets within the ETF can
+help offset losses. While ETFs don’t
+eliminate risk entirely, they often entail
+less risk compared to investing solely
+in individual companies.
+
+Instead of selecting individual stocks
+or bonds, investing in ETFs grants
+clients ownership of a fund comprising
+numerous securities. These funds
+span various categories and even
+cross-asset classes, providing
+direct exposure to bonds, stocks,
+commodities, derivatives, and more
+complex instruments.
+
+Tracking error: ETFs aim to replicate
+the performance of a specific index
+or asset class. However, there can be
+a slight difference between the ETF’s
+performance and the underlying index
+due to factors like fees, trading costs,
+and imperfect replication. This tracking
+error can impact returns.
+Liquidity risk: While ETFs are generally
+considered liquid investments, some
+ETFs may have lower trading volumes
+and less liquidity than others. This can
+result in wider bid-ask spreads and
+potential difficulty in buying or selling
+shares at desired prices, especially
+during volatile market conditions.
+
+There are risks associated with ETF
+investing, including those detailed
+below.
+
+And exposure is as broad or narrow
+as you need for your clients. Many
+
+Market risk: ETFs are subject
+to market fluctuations and can
+experience losses due to factors such
+as economic conditions, geopolitical
+events, or changes in investor
+sentiment. If the underlying assets in
+the ETF decline in value, the ETF’s
+price will also decrease.
+
+NUMBER OF FUNDS, 2016–2022
+480
+423
+325
+279
+
+275
+
+50%
+
+253
+
+246
+20%
+18%
+
+22%
+
+13%
+
+49%
+
+9%
+
+42%
+31%
+
+30%
+
+23%
+
+19%
+
+25%
+
+34%
+
+13%
+
+16%
+
+36%
+
+CAGR
+2016–2022
+
+21%
+
+19%
+
+12%
+
+21%
+
+24%
+
+9%
+
+6%
+
+29%
+
+31%
+
+30%
+
+34%
+
+25%
+
+20%
+
+22%
+
+2016
+
+2017
+
+2018
+
+2019
+
+2020
+
+2021
+
+2022
+
+Purely Passive
+
+Smart Beta
+
+Thematic
+
+Purely Active
+
+SOURCES: 2023 MORNINGSTAR, OLIVER WYMAN ANALYSIS
+
+11
+
+–19%
+4%
+
+2025 THE TOP ETF INNOVATORS
+
+A VAST UNIVERSE TO EXPLORE
+
+T
+
+he “random walk” message succeeded too well and now the big index fund complexes dominate the ETF market with
+trillions of dollars in AUM. They’re mass market brands with a gigantic market footprint you can practically see from
+space. And that’s great for investors who don’t want to be anywhere but in the lowest common denominator.
+
+But your clients are special. They want special treatment and are willing to pay for a more rarefied experience than they can
+get in the trillion-dollar crowd. That’s why they’re your clients, right? And that’s why we urge every advisor to dig a little deeper
+for great ideas. Maybe there’s a strategy hidden on the screen that delivers tangible alpha even after you factor out fees.
+Maybe there’s a way to smooth the specific parts of the market cycle that make your clients nervous.
+In our view, the rise of “old fashioned” active security selection in the ETF format is the most exciting thing to happen in asset
+management over the past decade. These funds are a long way from world domination. That’s the opportunity. Finding the
+right differentiated solution for a client’s differentiated situation is how you get ahead of the curve. The passive walk is random.
+Yours is planned.
+
+		
+RANK
+
+FIRM
+
+TOTAL AUM
+($ BILLIONS)
+
+1
+
+iShares
+
+$2,676.53
+
+2
+
+Vanguard
+
+$2,474.59
+
+3
+
+State Street
+
+$1,249.23
+
+4
+
+Invesco
+
+$494.96
+
+5
+
+Charles Schwab
+
+$331.35
+
+6
+
+First Trust
+
+$159.59
+
+7
+
+JPMorgan
+
+$143.90
+
+8
+
+Dimensional
+
+$126.49
+
+9
+
+WisdomTree
+
+$75.79
+
+10
+
+ProShares
+
+$69.83
+
+11
+
+VanEck
+
+$69.67
+
+12
+
+Fidelity
+
+$63.23
+
+13
+
+Global X
+
+$43.84
+
+14
+
+American Century
+
+$40.70
+
+15
+
+Pacer
+
+$40.09
+
+16
+
+Direxion
+
+$39.58
+
+17
+
+Grayscale
+
+$38.44
+
+18
+
+Goldman Sachs
+
+$33.92
+
+19
+
+PIMCO
+
+$24.82
+
+20
+
+Capital Group
+
+$22.82
+
+21
+
+FlexShares
+
+$20.85
+
+22
+
+Xtrackers
+
+$20.24
+
+23
+
+Innovator
+
+$18.04
+
+24
+
+Franklin Templeton
+
+$17.69
+
+25
+
+BlackRock
+
+$16.91
+
+SOURCE: MORNINGSTAR
+
+12
+
+2025 THE TOP ETF INNOVATORS
+Sector concentration risk: Some
+ETFs focus on specific sectors or
+industries. The ETF’s performance may
+be negatively affected if the sector
+experiences a downturn or faces
+regulatory or economic challenges.
+Counterparty risk: Certain ETFs use
+derivatives or engage in securities
+lending to achieve their investment
+objectives. This introduces
+counterparty risk, as the ETF is
+exposed to the counterparties’
+creditworthiness. If a counterparty
+defaults, it can impact the ETF’s
+performance.
+Tax considerations: ETF investors may
+be subject to capital gains taxes when
+selling shares, especially if the ETF
+has a significant turnover or distributes
+capital gains to shareholders. It’s
+essential to understand the tax
+implications of investing in ETFs.
+Embracing ETFs can save your clients
+money in the long run. Unlike individual
+stock transactions that incur fees each
+time, ETFs involve a single transaction
+fee for access to a comprehensive
+array of assets.
+Although management fees still
+apply, ETFs generally boast lower
+annual expenses than mutual funds.
+For instance, the average equity ETF
+charges a modest 0.53% in annual
+costs, considerably lower than the
+1.42% charged by the typical U.S.
+equity mutual fund.
+ETFs offer the flexibility of trading
+akin to stocks. While mutual funds
+only trade at day’s end, ETFs trade
+continuously throughout market
+hours, akin to traditional stocks and
+commodities.
+This real-time trading capability
+empowers investors to buy and sell
+ETF shares at their discretion, just as
+they would with individual stocks. With
+ETFs exchanging hands hundreds
+of times daily on the stock market,
+investors enjoy the freedom to enter
+swiftly and exit positions.
+
+THE COST STRUCTURE
+ETFs make money through a
+combination of management fees,
+transaction fees, and securities
+lending.
+Management fees: ETFs charge
+investors an annual management fee,
+also known as an expense ratio. This
+fee is a percentage of the total assets
+under management and covers the
+costs associated with managing the
+ETF, including portfolio management,
+administration, and marketing.
+Transaction fees: ETFs may also
+generate revenue from transaction
+fees. These fees are charged when
+investors buy or sell shares of the ETF.
+The transaction fees vary depending
+on the brokerage platform used and
+the specific ETF.
+Securities lending: Some ETFs engage
+in securities lending to generate
+additional income. In securities
+lending, the ETF lends out a portion
+of its portfolio holdings, typically to
+institutional investors, in exchange for
+collateral. The ETF earns income from
+the interest or fees charged on the
+loaned securities.
+The management fees ETF providers
+charge can vary based on several
+factors, including the investment
+strategy, the complexity of the fund,
+and the assets under management.
+There are a few reasons why some
+ETFs may charge higher fees
+compared to other ETFs.
+Active vs. passive management: ETFs
+that are actively managed, meaning
+the fund manager actively selects and
+manages the underlying assets, tend to
+have higher fees compared to passively
+managed ETFs. Active management
+involves more research, Analysis, and
+trading, which can increase the costs
+associated with managing the fund.
+Complexity and specialized strategies:
+Some ETFs employ complex
+investment strategies or focus on niche
+markets or sectors. These specialized
+ETFs may require more expertise and
+resources to manage, resulting in
+higher fees.
+
+13
+
+Assets under management: Larger
+ETFs with a higher amount of assets
+under management can benefit from
+economies of scale. As the fund
+grows, the management fees can
+be spread across a more extensive
+asset base, resulting in lower fees for
+investors. Conversely, smaller ETFs
+may have higher fees to cover their
+operating costs.
+Index licensing fees: Some ETFs track
+proprietary or custom indexes, which
+may require licensing fees to use. These
+licensing fees can contribute to higher
+expense ratios for the ETF.
+Trading costs: ETFs that have higher
+trading volumes and more liquidity tend
+to have lower trading costs, which
+can be reflected in lower expense
+ratios. On the other hand, ETFs with
+lower trading volumes or less liquid
+underlying assets may have higher
+trading costs, leading to higher fees
+Alpha: If you deliver better results, you
+deserve to charge a premium fee. And
+it can make sense for investors to pay
+that fee.
+
+THE RETURN PROFILE
+Clients or investors can make money
+from ETFs in a few ways:
+Capital appreciation: If the price of
+the ETF’s underlying assets increases,
+the value of the ETF shares will also
+increase. Investors can sell their shares
+at a higher price than they initially paid,
+resulting in a capital gain.
+Dividends and interest: Some ETFs
+invest in assets that generate income,
+such as stocks that pay dividends or
+bonds that pay interest. Investors in
+these ETFs can receive a portion of the
+revenue generated by the underlying
+assets in the form of dividends or
+interest payments.
+Distributions: ETFs may distribute
+capital gains to investors if the fund
+sells securities at a profit. These
+distributions are typically made
+annually or semi-annually and can be
+reinvested or taken as cash.
+
+2025 THE TOP ETF INNOVATORS
+CATEGORY AND STYLE
+There is no definitive number of ETF
+categories, as the classification of ETFs
+can vary depending on different criteria
+and perspectives. However, below
+is an overview of some commonly
+recognized categories of ETFs. This list
+is incomplete, as new categories may
+emerge over time.
+Equity ETFs: These ETFs invest
+in stocks and represent ownership
+in companies. They can be broadbased, tracking broad market indexes
+like the S&P 500 or focusing on
+specific sectors, regions, or market
+capitalizations. Examples include
+technology ETFs, healthcare ETFs,
+emerging market ETFs, and small-cap
+ETFs.
+Sample equity ETF tickers: SPDR
+S&P 500 ETF Trust (SPY), Technology
+Select Sector SPDR Fund (XLK),
+iShares Global Healthcare ETF (IXJ),
+iShares MSCI Emerging Markets ETF
+(EEM), iShares Russell 2000 ETF (IWM)
+Bond ETFs: Bond ETFs invest in fixedincome securities such as government
+bonds, corporate bonds, municipal
+bonds, or high-yield bonds. They can
+focus on specific durations, credit
+qualities, or bond market sectors.
+Examples include Treasury bond ETFs,
+corporate bond ETFs, and municipal
+bond ETFs.
+Sample bond ETF tickers: iShares 20+
+Year Treasury Bond ETF (TLT), iShares
+iBoxx $ Investment Grade Corporate
+Bond ETF (LQD), iShares National Muni
+Bond ETF (MUB)
+Sector ETFs: These ETFs focus on
+specific sectors of the economy, such
+as technology, healthcare, energy, or
+financials. They provide exposure to a
+particular industry or sector and allow
+investors to target specific areas of the
+market.
+Sample sector ETF tickers: Select
+Sector SPDR Funds (XLF for
+financials, XLE for energy, XLK for
+technology, etc.)
+International ETFs: International ETFs
+provide exposure to stocks or bonds
+of companies or countries outside
+
+of the investor’s home country. They
+can focus on specific regions, such as
+Europe, Asia, or emerging markets, or
+provide broad global exposure.
+Sample international ETF tickers: iShares
+MSCI EAFE ETF (EFA), Vanguard FTSE
+Emerging Markets ETF (VWO)
+Commodity ETFs: Commodity
+ETFs invest in physical commodities
+like gold, silver, oil, natural gas, or
+agricultural products. They can provide
+exposure to the price movements of
+these commodities without the need
+for physical ownership.
+Sample commodity ETF tickers: SPDR
+Gold Shares (GLD), United States Oil
+Fund (USO), Invesco D.B. Agriculture
+Fund (DBA)
+Real Estate ETFs: Real estate ETFs
+invest in real estate investment trusts
+(REITs) or companies involved in the
+real estate industry. They provide
+exposure to the real estate market and
+can focus on residential, commercial,
+or specialized sectors of real estate.
+Sample real estate ETF tickers:
+Vanguard Real Estate ETF (VNQ),
+iShares U.S. Real Estate ETF (IYR)
+Dividend ETFs: Dividend ETFs focus
+on stocks that pay regular dividends.
+They can target high dividend yield
+stocks, dividend growth stocks, or
+companies with a history of consistent
+dividend payments.
+Sample dividend ETF tickers: iShares
+Select Dividend ETF (DVY), Vanguard
+Dividend Appreciation ETF (VIG)
+Factor-based ETFs: Factor-based
+ETFs follow specific investment factors
+such as value, growth, momentum,
+quality, or low volatility. These ETFs
+aim to capture particular investment
+styles or factors that have historically
+shown to outperform the broader
+market.
+Sample factor-based ETF tickers:
+iShares Russell 1000 Value ETF (IWD),
+iShares Russell 1000 Growth ETF
+(IWF), Invesco S&P 500 Low Volatility
+ETF (SPLV)
+
+14
+
+Smart beta ETFs: Smart Beta ETFs
+combine active and passive investing
+elements. They use alternative
+weighting schemes or rules-based
+methodologies to construct portfolios
+that aim to outperform traditional
+market-cap-weighted indexes.
+Sample smart beta ETF tickers:
+Invesco S&P 500 Equal Weight ETF
+(RSP), iShares Edge MSCI USA Quality
+Factor ETF (QUAL)
+ESG ETFs: ESG (environmental,
+social, and governance) ETFs focus
+on companies that meet certain
+sustainability and ethical criteria.
+They consider environmental and
+social impact, as well as corporate
+governance practices.
+Sample ESG ETF tickers: iShares ESG
+MSCI USA ETF (ESGU), Xtrackers MSCI
+USA ESG Leaders Equity ETF (USSG)
+There are several different styles of ETF
+investing that investors can consider
+based on their investment objectives
+and preferences:
+Passive/index investing: This style
+involves investing in ETFs that aim to
+replicate the performance of a specific
+index, such as the S&P 500 or the
+FTSE 100. Passive/index ETFs typically
+have low expense ratios and seek to
+provide broad market exposure.
+Active investing: Active ETFs are
+managed by portfolio managers
+who aim to outperform a benchmark
+index through active stock selection
+and market timing. Due to the active
+management involved, these ETFs
+may have higher expense ratios
+compared to passive/index ETFs.
+Value investing: Value ETFs focus on
+investing in stocks that are considered
+undervalued based on fundamental
+Analysis. These ETFs typically seek out
+companies with low price-to-earnings
+(P/E) ratios, low price-to-book (P/B)
+ratios, or other value-oriented metrics.
+Growth investing: Growth
+ETFs target companies that are
+expected to experience aboveaverage growth rates in earnings or
+revenue. These ETFs typically invest
+
+2025 THE TOP ETF INNOVATORS
+
+GLOBAL AUM, 2010–2022
+($ BILLION)
+
+7,484
+4%
+5,803
+
+17%
+
+3%
+4,735
+
+17%
+
+1,543
+1%
+19%
+14%
+
+1,904
+1%
+21%
+17%
+
+2,192
+
+2,337
+
+1%
+21%
+
+1%
+19%
+
+19%
+
+20%
+
+3,626
+
+1%
+
+2%
+
+2,740
+
+19%
+
+18%
+
+1%
+19%
+
+20%
+
+20%
+
+16%
+
+CAGR
+
+17%
+
+2010–2022 2016–2022
+
+19%
+
+2%
+3,690
+
+6,704
+4%
+
+20%
+19%
+
+21%
+
+21%
+
+1,211
+
+1,240
+
+22%
+
+19%
+
+67%
+
+67%
+
+67%
+
+61%
+
+59%
+
+60%
+
+59%
+
+60%
+
+60%
+
+60%
+
+61%
+
+60%
+
+59%
+
+2010
+
+2011
+
+2012
+
+2013
+
+2014
+
+2015
+
+2016
+
+2017
+
+2018
+
+2019
+
+2020
+
+2021
+
+2022
+
+3,131
+
+3,280
+
+3,653
+
+3,953
+
+4,080
+
+4,304
+
+4,577
+
+4,534
+
+4,458
+
+5,098
+
+5,697
+
+15%
+
+16%
+
+44%
+
+43%
+
+13%
+
+14%
+
+21%
+
+16%
+
+14%
+
+16%
+
+8%
+
+6%
+
+NUMBER OF FUNDS
+2,389
+
+2,903
+
+Purely Passive
+
+Smart Beta
+
+Thematic
+
+Purely Active
+
+SOURCES: 2023 MORNINGSTAR, OLIVER WYMAN ANALYSIS
+
+in companies with high price-toearnings (P/E) ratios or high price-tosales (P/S) ratios.
+Dividend investing: Dividend ETFs
+focus on investing in stocks that pay
+regular dividends. These ETFs may
+target companies with a history of
+consistent dividend payments, high
+dividend yields, or dividend growth.
+Momentum investing: Momentum
+ETFs seek to capture the trendfollowing strategy by investing in
+stocks or other assets that have
+shown positive price momentum.
+These ETFs aim to benefit from the
+continuation of recent price trends.
+Quality investing: Quality ETFs focus
+on investing in companies with strong
+financials, stable earnings, and solid
+balance sheets. These ETFs typically
+target companies with high return on
+
+equity (ROE), low debt levels, and
+consistent profitability.
+Low-volatility investing: Lowvolatility ETFs invest in stocks or other
+assets that have historically exhibited
+lower price volatility compared to the
+broader market. These ETFs aim to
+provide downside protection during
+market downturns.
+Factor-based investing: Factorbased ETFs follow specific investment
+factors such as value, growth,
+momentum, quality, or low volatility.
+These ETFs aim to capture the excess
+returns associated with these factors
+and may combine multiple factors in
+their investment approach.
+ESG investing: ESG (environmental,
+social, and governance) ETFs
+focus on investing in companies
+that meet certain sustainability and
+
+15
+
+ethical criteria. These ETFs consider
+environmental and social impact and
+corporate governance practices in their
+investment selection.
+These styles of ETF investing are not
+mutually exclusive, and investors can
+combine different styles based on their
+investment goals and risk tolerance.
+Additionally, the availability and specific
+characteristics of ETFs within each
+style may vary among other providers.
+
+FROM ASSET CLASS TO
+ALLOCATION
+Equity ETFs mirror an index of stocks,
+offering a range of options from
+large to small businesses and even
+country-specific stocks. They also
+provide exposure to specific sectors
+like technology or banking, catering
+to investors looking to capitalize on
+current market trends.
+
+2025 THE TOP ETF INNOVATORS
+
+DIVERSIFYING
+A PORTFOLIO IS
+KEY, AND BOND
+OR FIXED-INCOME
+ETFs OFFER A
+STABLE RETURN
+WITH POTENTIALLY
+LOWER RISK
+COMPARED TO
+EQUITIES.
+
+Alternative Investments: Some
+ETFs offer exposure to alternative
+investments, such as hedge fund
+strategies, private equity, infrastructure,
+or volatility indexes.
+
+Diversifying a portfolio is key, and
+bond or fixed-income ETFs offer a
+stable return with potentially lower risk
+compared to equities. Professionals
+favor these investments because of
+their role in spreading investment risk.
+
+Finally, the rapidly expanding range
+of sustainable ETFs integrates
+environmental, social, and governance
+(ESG) considerations into traditional
+investment approaches. Driven by
+demographic shifts, government
+policies, and evolving risk perceptions,
+sustainable investing is gaining traction
+among a diverse investor base.
+Recently, there has been a significant
+rise in the introduction of innovative
+ETF products that specifically cater to
+today’s investors’ environmental and
+socially responsible preferences. These
+products offer investors the chance to
+align their investments with modern
+themes and trends and provide an
+avenue to support their environmental
+and social values.
+
+Commodities like gold, silver, or
+oil can be challenging to access
+directly, making ETFs an attractive
+option. However, they may need to
+be more transparent, often utilizing
+derivatives to track commodity prices,
+which introduces additional risks like
+counterparty risk.
+Currency ETFs invest directly or
+through derivatives in single or multiple
+currencies (and now cryptocurrencies).
+While offering opportunities for
+currency speculation or hedging, they
+also carry added risk, particularly when
+derivatives are involved.
+Leveraged and inverse ETFs cater to
+investors seeking amplified returns
+but come with significantly higher risk.
+Inverse funds rise when the target
+index falls, mimicking short-selling,
+while leveraged funds aim to enhance
+returns by borrowing additional funds,
+denoted by multiples like 2X.
+
+Real estate ETFs invest in real estate
+investment trusts (REITs) or actual
+estate-related companies, providing
+exposure to the real estate market
+without direct property ownership.
+Factor investing targets specific drivers
+of returns across asset classes, often
+implemented through rules-based
+ETFs known as “Smart Beta.” This
+strategy, long utilized by institutional
+investors and active managers,
+provides investors with exposure to
+various market factors.
+
+ACTIVE MANAGER, ETF WRAPPER
+The core concept of an actively managed
+ETF revolves around portfolio managers
+making strategic adjustments to the
+fund’s investments without being bound
+by the strictures of tracking an index,
+unlike passively managed ETFs.
+These managers seek to surpass
+a benchmark through meticulous
+research and strategic decisions. Like
+their passive counterparts, traditional
+actively managed ETFs disclose
+
+16
+
+their holdings daily and are traded
+throughout the day, setting them apart
+from comparable mutual funds.
+While passive ETFs have historically
+dominated the market and still
+command a significant share of ETF
+assets, the actively managed segment
+has witnessed remarkable growth and
+substantial inflows.
+Some advantages include:
+Potential for higher returns: Unlike
+passively managed ETFs that aim to
+track a benchmark, actively managed
+ETFs have the potential to outperform
+the benchmark through strategic
+investment decisions.
+Lower costs compared to similar
+funds: The structure of actively
+managed ETFs may allow for lower
+expenses relative to comparable mutual
+funds. On average, ETFs generally
+have lower costs compared to mutual
+funds. When examining the average
+management fees across various
+strategies, purely passive and hybrid
+ETFs (such as smart beta and thematic
+ETFs) have approximately 20% lower
+fees on average compared to passively
+managed and hybrid mutual funds.
+The difference in management fees
+becomes even more pronounced for
+purely actively managed funds, with
+actively managed ETFs having nearly
+50% lower costs compared to actively
+managed mutual funds.1
+Flexibility: Similar to index ETFs,
+actively managed ETFs offer investors
+the flexibility to trade throughout the
+day, including engaging in short sales
+and margin trading. This potentially
+enhances liquidity compared to funds
+without intraday trading capabilities.
+
+DON’T FORGET TAX ALPHA
+Tax alpha refers to the additional aftertax returns that can be generated by
+implementing tax-efficient investment
+¹Note: the number of active ETFs available in the market is
+still significantly smaller (about 500 ETFs) compared to the
+number of mutual funds (more than 14,000).
+
+2025 THE TOP ETF INNOVATORS
+strategies. ETFs are often associated
+with tax alpha due to their unique
+structure and features.
+ETFs are widely known for their tax
+efficiency, but delving into the intricacies
+of the tax treatment of different asset
+classes unveils a landscape of complexity.
+Continue reading to gain insight into
+capital gains distributions, dividends,
+interest, K-1 statements, collectibles,
+tax rates, and more. Understanding
+these nuances could lead to tax savings.
+ETFs can potentially contribute to
+tax alpha in several ways:.
+In-kind creations and redemptions:
+ETFs utilize an in-kind creation and
+redemption process, which allows
+authorized participants (APs) to
+exchange a basket of securities for ETF
+shares or vice versa. This mechanism
+helps ETFs minimize taxable capital
+gains distributions. When an AP
+redeems ETF shares, the ETF can
+distribute low-cost basis securities,
+reducing the potential for capital gains.
+Lower portfolio turnover: ETFs,
+particularly index-based ETFs, tend to
+have lower portfolio turnover compared
+to actively managed mutual funds.
+Lower turnover means fewer taxable
+events, resulting in potential tax
+savings for investors.
+Tax efficiency of indexing: Many ETFs
+are designed to track specific indexes,
+which can lead to tax efficiency.
+Indexing strategies generally involve less
+frequent buying and selling of securities,
+reducing the realization of capital gains
+and associated tax liabilities.
+Tax-loss harvesting: ETFs can be
+used for tax-loss harvesting strategies.
+Investors can sell ETFs that have
+experienced losses to offset capital
+gains from other investments, potentially
+reducing their overall tax liability.
+
+Equity and bond ETFs—capital
+gains: ETF investors have more control
+over realizing capital gains. They can
+choose when to sell their ETF shares,
+
+ETFs ARE WIDELY KNOWN FOR THEIR
+TAX EFFICIENCY, BUT DELVING INTO THE
+INTRICACIES OF THE TAX TREATMENT OF
+DIFFERENT ASSET CLASSES UNVEILS A
+LANDSCAPE OF COMPLEXITY.
+allowing for greater flexibility in managing their tax obligations. ETFs, mainly
+passively managed equity ones, are
+lauded for their tax efficiency. These
+funds typically track an index passively,
+resulting in minimal capital gains distributions compared to actively managed
+mutual funds. Additionally, ETF managers have strategies to mitigate capital
+gains when creating or redeeming
+shares.
+However, ETFs holding dividendpaying stocks will distribute earnings
+to shareholders, usually annually, while
+dividend-focused ETFs may do so
+more frequently. Qualified dividends
+may enjoy lower tax rates, while
+interest from bond ETFs is taxed as
+ordinary income.
+The taxation depends on the holding
+period and income level when selling
+an equity or bond ETF. Holding for
+more than a year subjects gains to
+long-term capital gains taxes, while
+shorter durations lead to ordinary
+income tax rates.
+
+Commodity ETFs—K-1s and the
+60/40 rule: Commodity ETFs, which
+invest via futures contracts, can complicate tax filings. Structured as limited
+partnerships, these ETFs issue K-1
+forms, potentially delaying tax reporting. Moreover, investors may face unrelated business taxable income (UBTI)
+concerns.
+The 60/40 rule governs gains and
+losses from commodity ETF sales,
+attributing 60% to long-term gains and
+40% to short-term profits, regardless
+
+17
+
+of holding duration. This rule impacts
+taxation irrespective of the ETF’s
+holding period.
+To simplify tax treatment, newer
+commodity ETFs allocate a portion of
+assets to offshore subsidiaries, treating
+investments more akin to equities or
+bonds.
+
+Precious metals ETFs—collectibles tax
+rate: ETFs focused on precious metals,
+structured as grantor trusts, are taxed
+as collectibles. Long-term gains face
+a maximum rate of 31.8%, with shortterm gains taxed as ordinary income.
+However, ETFs structured differently
+may have distinct tax implications.
+Currency ETFs: Currency ETFs’
+taxation varies based on structure.
+Open-end funds face long-term rates
+up to 23.8% or short-term rates up
+to 40.8%, while grantor trusts or
+limited partnerships adhere to the
+60/40 rule or ordinary income rates,
+respectively.
+Investing in exchange-traded notes
+(ETNs): ETNs pose credit risk, as they
+rely on the issuer’s credit. Although
+they don’t distribute dividends or
+interest, selling ETNs may incur capital
+gains taxes similar to ETFs.
+Understanding the tax implications of
+ETFs and ETNs is crucial for informed
+investment decisions.
+
+WHO OWNS THE
+SECURITIES?
+When considering an ETF,
+understanding its structure is essential
+as it determines how the target index
+
+2025 THE TOP ETF INNOVATORS
+is tracked, its assets, and the level
+of visibility and risk involved. These
+factors ultimately influence total cost
+and expected returns.
+Most ETFs in the market today follow
+the physical replication method. These
+ETFs offer simplicity and transparency
+by directly holding some or all of the
+underlying assets of the target index.
+For instance, an ETF tracking the STI
+(Straits Times Index) may have either
+all the stocks listed on the STI or a
+selected core basket of those stocks.
+Synthetic ETFs do not invest directly
+in assets but instead use derivatives,
+such as futures contracts, to replicate
+the performance of the target index.
+For example, a synthetic ETF tracking
+crude oil might hold a series of oil
+futures contracts, typically arranged
+with a third party such as an
+investment bank.
+Synthetic ETFs appeal to investors
+seeking exposure to assets that
+are not easily accessible through
+traditional exchanges, such as China
+A shares, or to commodities that are
+challenging to hold directly, like crude
+oil. While offering potentially higher
+returns, synthetic ETFs also come with
+increased risk, notably counterparty
+risk—the risk that the counterparty
+fails to deliver the agreed-upon returns
+specified in the ETF contract.
+
+WHERE WE GO FROM HERE
+The ETF market has experienced
+substantial growth over the past two
+decades, with notable advancements
+in the last five years.
+During this period, there has been a
+surge in the introduction of innovative
+ETF products that cater to the
+environmental and socially responsible
+preferences of today’s investors.
+While ETFs have traditionally been
+associated with passive investments
+that track broad equity indexes,
+the ETF landscape is entering a
+new phase of growth driven by the
+emergence of active ETFs.
+
+The outlook for the ETF industry is
+generally positive, with several factors
+contributing to its continued growth and
+development. Several key trends and
+factors are shaping a favorable position.
+Increasing adoption: The adoption
+of ETFs by both retail and institutional
+investors is expected to continue
+growing. ETFs offer benefits such
+as diversification, liquidity, and costefficiency, which make them attractive
+investment options.
+Innovation and product expansion:
+The ETF industry is witnessing
+ongoing innovation, with the
+introduction of new and specialized
+ETF products. This includes thematic
+ETFs, ESG-focused ETFs, actively
+managed ETFs, and ETFs targeting
+specific sectors or asset classes.
+This product expansion will attract
+investors seeking exposure to specific
+investment themes or strategies.
+ESG and sustainable investing:
+Environmental, social, and governance
+(ESG) investing is gaining prominence,
+and ETFs focused on ESG and
+sustainable investing are experiencing
+increased demand. Investors are
+increasingly seeking investment
+options that align with their values and
+have a positive impact.
+Technological advancements:
+Technology continues to play a
+significant role in the ETF industry.
+Digital platforms and robo-advisors
+are making it easier for investors
+to access and invest in ETFs.
+Additionally, trading technology
+and data analytics advancements
+are enhancing the efficiency and
+transparency of ETF trading and
+management.
+Regulatory developments:
+Regulatory changes and
+advancements are shaping the
+ETF industry. For example, the
+introduction of non-transparent and
+semi-transparent ETF structures has
+expanded the possibilities for active
+management within the ETF space.
+
+18
+
+Regulatory frameworks are also
+evolving globally to accommodate
+the growth and complexity of the ETF
+industry.
+Global expansion: The ETF industry
+is expanding globally, with increased
+adoption and product offerings
+in various regions. While the U.S.
+remains the largest market for ETFs,
+Europe and Asia are experiencing
+significant growth and are expected to
+contribute to the industry’s expansion.
+
+2025 THE TOP ETF INNOVATORS
+
+Alpha Blue Capital Management LP
+336 Bon Air Center No. 159, Greenbrae, CA 94904
+alphabluecapitalabcs.com
+
+ALPHA BLUE
+CAPITAL
+MANAGEMENT LP
+David M. Dabora
+Managing Partner
+ABCS—Alpha Blue Capital
+US Small-Mid Cap Dynamic
+ETF—is an innovative and
+pioneering Dynamic Active ETF
+that integrates a repeatable
+fundamental bottom-up security
+selection investment process
+practiced for 30+ years with the
+flexibility to invest in Vanguard
+Small & Mid Cap passive CRSP
+Equity Index ETFs all in one ETF.
+ABCS ETF’s investment
+objective is to seek to achieve
+long-term capital appreciation.
+Targeted annualized alpha and
+investment performance of 1%–
+3% in excess of the Bloomberg
+US 2500 (Small-Mid) Index
+returns over a full market cycle.
+With the opportunity to provide
+diversification and outperform
+the Larger Cap broader US
+market’s returns by focusing
+on the bottom 30% of the US
+market by market cap.
+
+Alpha Blue Capital is located in the San
+Francisco Bay Area providing Fundamental
+Research & Value-Focused Investment
+Management with a 30+ year distinctive
+approach firmly based on a disciplined
+Investment Philosophy, Process &
+Strategies. Focusing on security selection
+and portfolio characteristics with attractive
+Valuation, sound Fundamentals, Quality &
+positive business Momentum (V, F, Q, M).
+The firm is an Investment Adviser & ETF
+Sponsor that provides investment research,
+
+management & advisory services for Alpha
+Blue Capital US Small-Mid Cap Dynamic
+ETF (Nasdaq ticker: ABCS).
+The ETF is managed by the Founding
+Partner & Portfolio Manager from the San
+Francisco Bay Area city of Greenbrae in
+Marin County, California.
+ETF Architect, based in the Philadelphia
+area, is the adviser, providing ETF white label
+operations and the EA Series Trust.
+
+ABCS ETF—A Dynamic Active Portfolio of Small & Mid
+Cap Stocks That Integrates Vanguard Small & Mid Cap
+Passive CRSP Equity Index ETFs All in One ETF
+Alpha Blue Capital Management LP is the ETF sponsor & sub-adviser providing fundamental
+research, portfolio management strategy and decision making for ABCS. ETF Architect is
+the adviser, providing ETF white label operations and the EA Series Trust. ABCS’s dynamic
+active process focuses on its “4-levels” of bottom-up stock selection based on attractive
+Valuation, sound Fundamentals, Quality and positive business Momentum. Vanguard Index
+ETFs provide the strategic and tactical flexibility for style, size and risk management.
+TICKER NAME
+CATEGORY
+			
+
+GROSS
+EXPENSE
+
+NET
+EXPENSE
+
+ABCS
+
+0.42%
+
+0.27%
+
+ALPHA BLUE CAPITAL US SMALL-MID
+CAP DYNAMIC ETF
+
+ACTIVE EQUITY
+
+1
+Alpha: A measure of performance on a risk-adjusted basis. Alpha takes the volatility (price risk) of a fund and compares its risk-adjusted performance to a benchmark index. The excess
+return of the fund relative to the return of the benchmark is a fund’s alpha.
+
+Disclosures: The fund’s investment objectives, risks, charges and expenses must be considered carefully before investing. The statutory prospectus and
+prospectus contain this and other important information about the investment company, and it may be obtained by calling 215-882-9983 or visiting
+https://alphabluecapitalabcs.com/. Read it carefully before investing.
+Investments involve risk. Principal loss is possible. The Fund is actively-managed and is subject to the risk that the strategy may not produce the intended results. The Fund is new
+and has a limited operating history to evaluate.
+Growth-Style Investing Risk. Stocks of companies the Sub-Adviser believes are fast-growing may trade at a higher multiple of current earnings than other stocks. If the Sub-Adviser’s
+assessment of a company’s prospects for earnings growth, or how other investors will value the company’s earnings growth, is incorrect, the price of the stock may fall or may never
+reach the value the Sub-Adviser has placed on it. Value-Style Investing Risk. Value stocks can perform differently from the market as a whole and from other types of stocks. Value
+stocks may be purchased based upon the Sub-Adviser’s belief that the stock may be out of favor. Value investing seeks to identify stocks that have depressed valuations, based upon
+a number of factors which are thought to be temporary in nature, and to sell them at superior profits should their prices rise in response to resolution of the issues which caused the
+valuation of the stock to be depressed. Foreign Securities Risk. Investments in non-U.S. securities involve risks that may not be present with investments in U.S. securities. For
+example, investments in non-U.S. securities may be subject to risk of loss due to foreign currency fluctuations or to political or economic instability. Non-Diversification Risk. Because
+the Fund is non-diversified, it may be more sensitive to economic, business, political or other changes affecting individual issuers or investments than a diversified fund, which may
+result in greater fluctuation in the value of the Fund’s Shares and greater risk of loss. Business Development Company (BDC) Risk. BDCs generally invest in less mature U.S. private
+companies or thinly traded U.S. public companies which involve greater risk than well-established publicly traded companies. Real Estate Investment Risk. The Fund’s investments in real
+estate companies and companies related to the real estate industry subject the Fund to risks associated with the direct ownership of real estate securities. New Fund Risk. The Fund
+is a recently organized management investment company with no operating history. As a result, prospective investors have no track record or history on which to base their investment
+decision. There can be no assurance that the Fund will grow to or maintain an economically viable size. Small-Capitalization Companies Risk. Investing in securities of smallcapitalization companies involves greater risk than customarily is associated with investing in larger, more established companies.
+ETFs may trade at a premium or discount to their net asset value. Redemptions are limited and often brokerage commissions are charged on each trade which may reduce returns.
+The fund may invest in medium-capitalization companies which may be subject to greater risks than large company stocks due to limited resources and inventory as well as more
+sensitivity to adverse market conditions.
+The Fund is distributed by Quasar Distributors, LLC. The Fund investment advisor is Empowered Funds, LLC, which is doing business as EA Advisers. The Fund’s sub-advisor is Alpha
+Blue Capital Management LP.
+
+19
+
+2025 THE TOP ETF INNOVATORS
+
+Amplify ETFs
+3333 Warrenville Rd, Ste 350, Lisle, IL 60532 • amplifyetfs.com
+
+AMPLIFY ETFs
+Christian Magoon
+Founder and CEO
+Behind Amplify ETFs
+Christian Magoon, the Founder
+and CEO of Amplify ETFs, is well
+known for his contributions to
+the ETF industry. With nearly
+100 ETF launches, he has
+been instrumental in driving
+the widespread adoption of
+ETFs through his advocacy and
+educational efforts. Christian
+has consistently displayed an
+innovative approach, introducing
+new and pioneering strategies to
+the market in collaboration with
+leading investment managers
+and index providers.
+Christian has been honored
+to receive recognition for his
+impact in the ETF industry and
+has been referred to as an “ETF
+Pioneer” by both The Financial
+Times and Financial Planning
+Magazine. Appearing regularly
+on CNBC’s “ETF Edge” and other
+national, trade, and business
+press, Christian lends his insights
+about the latest developments
+in the ETF industry, sectorspecific observations, as well as
+advancements and new offerings
+from Amplify ETFs.
+
+At Amplify ETFs, our goal is to
+enhance the value of investors’
+portfolios through a diverse range of
+actively managed and index-based
+ETFs. Our ETFs are designed to provide
+access to attractive income generation,
+bolster core allocations, and capitalize
+on transformative growth trends. Our
+seasoned team utilizes a combination
+of technical analysis, fundamental
+research, and quantitative modeling
+to offer distinctive exposure to various
+asset classes, sectors, and themes.
+
+Aligned with our client-centric
+approach, we offer educational
+materials and valuable resources
+to empower investors in making
+well-informed decisions. We firmly
+believe in equipping investors with
+the knowledge and essential tools
+required to help navigate the everchanging investment landscape and
+capitalize on emerging opportunities.
+Explore the possibilities at
+AmplifyETFs.com.
+
+Amplify Your Future!
+Amplify ETFs offers access to innovative investment strategies focused on generating
+attractive income, strengthening core allocations, and tapping into transformational growth
+trends. Explore Amplify ETFs’ selection of actively managed and index-based ETFs today
+at AmplifyETFs.com.
+TICKER NAME
+
+CATEGORY
+
+EXPENSE
+
+BLOK
+
+AMPLIFY TRANSFORMATIONAL
+DATA SHARING ETF (BLOCKCHAIN)
+
+GROWTH
+
+0.76%
+
+HACK
+
+AMPLIFY CYBERSECURITY ETF
+
+GROWTH
+
+0.60%
+
+IDVO
+
+AMPLIFY INTERNATIONAL ENHANCED DIVIDEND INCOME ETF
+
+INCOME
+
+0.66%
+
+SILJ
+
+AMPLIFY JUNIOR SILVER MINERS ETF
+
+GROWTH
+
+0.69%
+
+SOF
+
+AMPLIFY SAMSUNG SOFR ETF
+
+INCOME
+
+0.20%
+
+Disclosures: Carefully consider the Fund’s investment objectives, risks, charges, and expenses before investing. This and other information can be found in the
+Fund’s statutory and summary prospectuses, which may be obtained at AmplifyETFs.com. Read the prospectus carefully before investing.
+Investing involves risk, including the possible loss of principal. There can be no assurance that the Funds’ investment objectives will be achieved. Shares of any ETF are bought
+and sold at market price (not NAV), may trade at a discount or premium to NAV and are not individually redeemed from the Fund. Brokerage commissions will reduce returns.
+BLOK does not invest directly in blockchain technology, but invests in companies actively involved in the development and utilization of blockchain technology. BLOK is also
+comprised of companies that are partnering with and/or directly investing in companies that are actively engaged in this technology, as well as companies acting as members of
+multiple consortiums dedicated to this technology.
+Amplify ETFs are distributed by Foreside Fund Services, LLC.
+
+20
+
+2025 THE TOP ETF INNOVATORS
+
+BondBloxx Investment Management Corp.
+700 Larkspur Landing Cir, Ste 250, Larkspur, CA 94939 • bondbloxxetf.com
+
+BONDBLOXX
+Joanna Gallegos
+Co-Founder
+and COO
+BondBloxx is the first ETF issuer
+to focus solely on fixed income,
+offering a range of exposures
+spanning U.S. Treasuries,
+investment grade, high yield,
+and emerging markets bonds.
+Advisors use BondBloxx ETFs
+to access precise fixed income
+exposures. Our funds offer
+advisors more flexibility and
+choice in fixed income, similar
+to the breadth of products in the
+equity ETF landscape, enabling
+them to refine their investment
+strategies and risk management.
+We see advisors using our
+ETFs in a variety of ways,
+including:
+• Managing strategic cash
+with our short duration U.S.
+Treasury ETFs and Tax-Aware
+ETF
+• Expressing their views on
+interest rates by using our
+ETFs that span the U.S.
+Treasury yield curve
+• Implementing active views
+on specific bond market
+categories
+• Enhancing after-tax return
+potential using a tax-aware
+bond strategy
+• Redeploying broad bond
+market allocations to capture
+more precise opportunities
+
+BondBloxx was founded by industry
+veterans who have been responsible for
+the innovations behind today’s exchange
+traded fund (ETF) market, including launching
+some of the largest ETF products currently
+available, designing the portfolio management
+processes and product structures that
+underpin current product offerings, and
+developing approaches tailored to institutional
+investors. We harness decades of experience
+and recent advancements in bond market
+data, analytics, and trading technology to
+develop innovative fixed income ETFs.
+
+While fixed income ETFs have grown
+significantly, investors still have limited
+choices for products that offer the specificity
+and precision available in equity markets.
+Most bond ETFs currently available have
+broad based exposures which limit choices for
+investors.
+BondBloxx funds address this gap, offering
+greater precision to help meet the evolving
+needs of investors seeking targeted and
+flexible solutions.
+
+Fixed Income: The Future Is Here
+BondBloxx is the first ETF issuer to focus solely on providing precision tools to help
+investors seize opportunities in fixed income markets.
+TICKER NAME
+
+CATEGORY
+
+EXPENSE
+
+XHLF
+
+FIXED INCOME:
+US TREASURY
+
+0.03%
+
+TAXX
+BONDBLOXX IR+M TAX-AWARE SHORT DURATION ETF
+		
+
+FIXED INCOME:
+TAX-AWARE
+
+0.35%
+
+BBBS
+
+BONDBLOXX BBB RATED
+1-5 YEAR CORPORATE BOND ETF
+
+FIXED INCOME:
+CORPORATES
+
+0.19%
+
+XCCC
+
+BONDBLOXX CCC RATED USD HIGH
+YIELD CORPORATE BOND ETF
+
+FIXED INCOME:
+CORPORATES
+
+0.40%
+
+HYSA
+
+BONDBLOXX USD HIGH YIELD BOND
+SECTOR ROTATION ETF
+
+FIXED INCOME:
+CORPORATES
+
+0.55%*
+
+BONDBLOXX BLOOMBERG SIX MONTH
+TARGET DURATION US TREASURY ETF
+
+*Net expense ratio shown. BondBloxx Investment Management has contractually agreed to waive a portion of its management fees through 2026. Please see the Fund’s
+prospectus for additional details.
+Disclosures
+BondBloxx Investment Management LLC (“BondBloxx”) is a registered investment adviser. The content on Wealth Advisor is intended to be for informational purposes only and is
+not intended to be investment advice.
+Distributor: Foreside Fund Services, LLC.
+BondBloxx pays Wealth Advisor for certain marketing activities and presentations or other services related to the sale or promotion of the Fund. These payments may create a
+conflict of interest by influencing Wealth Advisor to recommend the BondBloxx-advised Funds over another investment.
+Carefully consider the Funds’ investment objectives, risks, charges, and expenses before investing. This and other information can be found in the Funds’ prospectus
+or, if available, the summary prospectus, which may be obtained by visiting bondbloxxetf.com. Read the prospectus carefully before investing.
+There are risks associated with investing, including possible loss of principal. Fixed income investments are subject to interest rate risk; their value will normally decline as
+interest rates rise. Fixed income investments are also subject to credit risk, the risk that the issuer of a bond will fail to pay interest and principal in a timely manner, or that
+negative perceptions of the issuer’s ability to make such payments will cause the price of that bond to decline. Securities that are rated below investment-grade (sometimes
+referred to as “junk bonds”) be deemed speculative, may involve greater levels of risk than higher-rated securities of similar maturity and may be more likely to default. Investing
+in mortgage- and asset-backed securities involves interest rate, credit, valuation, extension and liquidity risks and the risk that payments on the underlying assets are delayed,
+prepaid, subordinated or defaulted on.
+Any performance quoted represents past performance and does not guarantee future results. The investment return and principal will fluctuate. Investor’s shares, when sold or
+redeemed, may be worth more or less than the original cost. Current performance may be lower or higher than the performance quoted. Shares of the Fund are bought and sold
+at market price (not NAV) and are not individually redeemed from a Fund.
+This information does not constitute advice or a recommendation or offer to sell or a solicitation to deal in any security or financial product. It is provided for information purposes
+only and on the understanding that the recipient has sufficient knowledge and experience to be able to understand and make their own evaluation of the proposals and services
+described herein, any risks associated therewith and any related legal, tax, accounting or other material considerations. To the extent that the reader has any questions regarding
+the applicability of any specific issue discussed above to their specific portfolio or situation, prospective investors are encouraged to contact BondBloxx or consult with the
+professional advisor of their choosing.
+Copyright ©2024 BondBloxx Investment Management Corporation
+
+21
+
+2025 THE TOP ETF INNOVATORS
+
+Horizon Kinetics LLC
+470 Park Ave S, New York, NY 10016 • www.horizonkinetics.com
+
+HORIZON
+KINETICS
+James Davolos
+Portfolio
+Manager, Horizon
+Kinetics Inflation
+Beneficiaries
+Active ETF (INFL)
+Horizon Kinetics believes that
+the era of highly accommodative
+financial conditions has ended,
+as structural shifts in economic
+growth and inflation have
+resulted in higher interest rates.
+This emergent market regime is
+likely to favor finite hard asset
+exposure, such as energy, base
+and precious metals, agriculture,
+and certain financial services.
+The Inflation Beneficiaries
+Fund (INFL) is distinguished
+by its focus on high quality,
+“capital light” business models
+that operate in these hard asset
+end markets. The businesses
+generate high returns through
+full market cycles, hence do
+not require rising price levels
+to achieve strong returns. The
+bespoke portfolio includes
+niche business models such as
+royalties, financial exchanges,
+and other high margin hard
+asset companies. INFL can
+benefit a portfolio through
+various uses, namely quality,
+diversification, and real asset
+exposure.
+
+Horizon Kinetics is a research-driven,
+fundamentals-oriented asset manager
+($7.4 billion in assets under management
+(“AUM”) as of June 30, 2024) serving
+institutions, individuals, and financial
+professionals. The Firm’s founders and lead
+investors have worked together for over
+thirty years, dating back to their tenure at
+Bankers Trust Company.
+• We are contrarian investors, and our vision
+is diametrically opposed to the movement
+of the crowd.
+• Our investment approach stresses
+absolute returns, blending a combination
+
+of fundamental research, discipline,
+and patience with the goal of long-term
+preservation and compounding of capital.
+• We measure risk as an impairment of
+capital. Returns can be increased by
+extension of the investment horizon rather
+than by extension of risk.
+• Our strategies are driven by fundamental
+research and opportunity, not capacity for
+asset gathering.
+• We invest alongside our clients and
+believe that a skin in the game approach
+is critical to aligning interests.
+
+INFL for Quality, Diversification,
+and Real Asset Exposure
+The Horizon Kinetics Inflation Beneficiaries ETF is an actively managed ETF that seeks
+long-term growth of capital in real (inflation-adjusted) terms. It seeks to invest in companies
+that are expected to benefit, either directly or indirectly, from rising prices of real assets
+without corresponding increases in expenses.
+TICKER NAME
+INFL
+
+CATEGORY
+
+EXPENSE
+
+HORIZON KINETICS INFLATION BENEFICIARIES ACTIVE ETF REAL ASSET
+
+0.85%
+
+Please consider carefully a fund’s investment objectives, risks, charges and expenses. For this and other important information, obtain a statutory and summary prospectus by contacting
+646-495-7333. Read it carefully before investing.
+Past performance is not a guarantee of future returns, and you may lose money. Opinions and estimates offered constitute our judgment as of the date made and are subject to change
+without notice. This information should not be used as a general guide to investing or as a source of any specific investment recommendations.
+The Horizon Kinetics Inflation Beneficiaries ETF (Symbol: INFL) is an exchange-traded fund (“ETF”) managed by Horizon Kinetics Asset Management LLC (“HKAM”). HKAM is an
+investment adviser registered with the U.S. Securities and Exchange Commission. You may obtain additional information about HKAM at aour website at www.horizonkinetics.com.
+Investing involves risk, including the possible loss of principal. Shares of any ETF are bought and sold at market price (not NAV), may trade at a discount or premium to NAV and are not
+individually redeemed from the Fund. Brokerage commissions will reduce returns. The Fund’s investments in securities linked to real assets involve significant risks, including financial,
+operating, and competitive risks. Investments in securities linked to real assets expose the Fund to potentially adverse macroeconomic conditions, such as a rise in interest rates or a
+downturn in the economy in which the asset is located.
+The Fund is non-diversified, meaning it may concentrate its assets in fewer individual holdings than a diversified fund. Therefore, the Fund is more exposed to individual stock volatility
+than a diversified fund. The Fund invests in foreign securities which involve greater volatility and political, economic and currency risks and differences in accounting methods. These
+risks are greater for investments in emerging markets. The S&P 500 Index is a broad-based index intended to show the performance of the 500 largest companies listed on stock
+exchanges in the United States.
+The Fund may invest in the securities of smaller and mid-capitalization companies, which may be more volatile than funds that invest in larger, more established companies. The fund is
+actively managed and may be affected by the investment adviser’s security selections. Diversification does not assure a profit or protect against a loss in a declining market.
+HKAM does not provide tax or legal advice, all investors are encouraged to consult their tax and legal advisors regarding an investment in the Fund. No part of this material may be
+copied, photocopied, or duplicated in any form, by any means, or redistributed without the express written consent of HKAM.
+The Horizon Kinetics Inflation Beneficiaries ETF (INFL) is distributed by Foreside Fund Services, LLC (“Foreside”). Foreside is not affiliated with Horizon Kinetics LLC, HKAM, or their
+affiliates or subsidiaries. Returns are subject to change. Note that indices are unmanaged, and the figures shown herein do not reflect any investment management fee or transaction
+costs. Investors cannot directly invest in an index. References to market indices, benchmarks or other measures of relative market performance (a “Benchmark”) over a specific period
+are provided for your information only. It is not our intention to state, indicate or imply in any manner that our future results will be profitable or equal past results.
+Murray Stahl is a member of the Board of Directors of Texas Pacific Land Corporation (“TPL”), a large holding in certain client accounts and funds managed by Horizon Kinetics Asset
+Management LLC (“HKAM”). Officers, directors and employees may also hold substantial amounts of TPL, both directly and indirectly, in their personal accounts. HKAM seeks to address
+potential conflicts of interest through the adoption of various policies and procedures, which include both electronic and physical safeguards. All personal and proprietary trading is also
+subject to HKAM’s Code of Ethics and is monitored by the firm’s Legal and Compliance Department.
+
+22
+
+2025 THE TOP ETF INNOVATORS
+
+Hull Tactical Asset Allocation
+141 W Jackson Blvd, Ste 1650, Chicago IL, 60604
+hulltactical.com
+
+HULL TACTICAL
+ASSET
+ALLOCATION
+Petra Bakosova
+CEO
+Advisors may approach Hull
+Tactical seeking solutions
+for various client needs. For
+instance, some clients desire
+dynamic market exposure
+that adjusts based on market
+conditions and macroeconomic
+events, providing peace of mind
+amidst market fluctuations.
+Other advisors may aim
+to enhance returns without
+increasing volatility, in which
+case they might replace a
+portion of their client’s equity
+exposure in a traditional
+60/40 portfolio with a tactical
+allocation component. Lastly,
+they could even be looking
+for long market exposure with
+added income generation with
+derivatives.
+These solutions and access
+to sophisticated investment
+strategies are readily available
+and packaged into our
+transparent exchange traded
+fund, HTUS.
+
+For decades, some have questioned the
+wisdom of market timing—the strategy of
+attempting to take advantage of predicted
+future price movements—however, with
+the explosion of data as well as the
+development of predictive analytics, HTAA
+believes market timing is not just possible
+but necessary. HTAA also believes in the
+predictability of volatility, leading to some
+options being overpriced and others being
+cheap. Volatility forecasts are used to
+build a portfolio of index options and other
+
+volatility-related products to enhance the
+core equity models.
+If market participants must adapt to a
+changing investing environment, so too
+must models and strategies. Recognizing
+that no single model can indefinitely
+survive the test of time, the HTAA team is
+continually re-evaluating and adapting their
+models, combining strategies into a blended
+signal that informs fund allocations on a
+day-to-day basis.
+
+Hull Tactical US ETF Offers a Sophisticated Approach
+to Delivering Risk-Hedged Exposure to the S&P 500.
+Equity Risk Premium forecasting indicators proven via academic research and rigorous
+testing, combined into a sophisticated strategy that seeks excess market returns with
+market volatility. Provides diversification by serving as a replacement for a portion of S&P
+500 exposure with added income generation via risk-reversal and zero-days-to-expiration
+option overlays.
+TICKER NAME
+
+CATEGORY
+
+EXPENSE
+
+HTUS
+
+LONG-SHORT EQUITY
+
+1.00%
+
+HULL TACTICAL US ETF
+
+About the Hull Tactical US ETF (HTUS) Investment Strategy
+HTUS is an actively managed exchange traded fund (ETF) driven by various proprietary analytical investment models that examine current and historical market data to attempt to
+predict the performance of the S&P 500® Index (the “S&P 500®”), a widely recognized benchmark of U.S. stock market performance that is composed primarily of large-capitalization
+U.S. issuers. The models deliver investment signals that the Adviser uses to make investment decisions for the Fund. The investment models used are to anticipate forward market
+movements and position the Fund to take advantage of these movements. Currently, signals are combined into an ‘ensemble’ array that spans statistical, behavior-sentimental, technical,
+fundamental, and economic data sources. This combined signal is generated each trading day towards the close of the market and dictates whether the Fund is long/short and the
+magnitude of position sizing. The Adviser routinely evaluates the performance and impact of each model on the Fund with the goal of realizing a risk/return profile that is superior to that
+of a buy and hold strategy.
+The use of derivative instruments involves risks different from, or possibly greater than, the risks associated with investing directly in securities and other traditional investments. These
+risks include (i) the risk that the counterparty to a derivative transaction may not fulfill its contractual obligations; (ii) risk of mispricing or improper valuation; and (iii) the risk that changes
+in the value of the derivative may not correlate perfectly with the underlying asset, rate, or index. Derivative prices are highly volatile and may fluctuate substantially during a short period
+of time. The use of leverage by the Fund, such as borrowing money to purchase securities or the use of options, will cause the Fund to incur additional expenses and magnify the Fund’s
+gains or losses. The Fund’s investment in fixed income securities is subject to credit risk (the debtor may default) and prepayment risk (an obligation paid early) which could cause its
+share price and total return to be reduced. Typically, as interest rates rise the value of bond prices will decline and the fund could lose value.
+While the option overlay is intended to improve the Fund’s performance, there is no guarantee that it will do so. Utilizing an option overlay strategy involves the risk that as the buyer of a
+put or call option, the Fund risks losing the entire premium invested in the option if the Fund does not exercise the option. Also, securities and options traded in over-the-counter markets
+may trade less frequently and in limited volumes and thus exhibit more volatility and liquidity risk.
+HTAA, LLC serves as the investment advisor. The Fund is distributed by Northern Lights Distributors, LLC (225 Pictoria Drive, Suite 450, Cincinnati, OH 45246), which is not affiliated with
+HTAA, LLC.
+Carefully consider the Fund’s investment objectives, risk factors, charges, and expenses before investing. This and additional information can be found in the Fund’s
+prospectus, which may be obtained by visiting www.hulltacticalfunds.com or calling toll-free 1-844-484-2484. Read the prospectus carefully before investing.
+There is no guarantee that the investment objectives will be achieved. Moreover, past performance is not a guarantee or indicator of future results.
+
+23
+
+2025 THE TOP ETF INNOVATORS
+
+Innovator Capital Management
+109 N Hale St, Wheaton, IL 60187 • www.innovatoretfs.com
+
+INNOVATOR ETFs
+Graham Day
+Chief Investment
+Officer
+When advisors decide to
+work with Innovator Capital
+Management, they are
+looking for a way to maintain
+exposure to the stock market’s
+upside potential, but with risk
+management they know they
+can rely on and can be confident
+telling their clients about.
+Advisors work with us because
+of our industry-leading lineup
+of Defined Outcome ETFs, our
+innovative tools, and our topnotch team of ETF consultants.
+We provide solutions that can
+help to stabilize advisors’
+businesses by helping to
+stabilize client portfolios.
+
+Innovator was established in 2017
+by Bruce Bond and John Southard,
+founders of the PowerShares ETF lineup
+that has grown to be the fourth largest in
+the world. The listing of three Innovator
+Buffer ETFs™ in August 2018 marked
+the launch of the world’s first Defined
+Outcome ETFs™.
+
+Innovator is dedicated to providing ETFs
+with built-in risk management that offer
+investors a high level of predictability
+around their investment outcomes.
+Today, with more than 100 ETFs and $18
+billion in AUM, Innovator is the industry’s
+leading provider of Defined Outcome
+ETFs™.
+
+Innovator Buffer
+ETF™ Suite
+
+INNOVATOR BUFFER ETF PARAMETERS
+
+With more than
+80 Buffer ETFs™,
+Innovator offers the
+industry’s largest and
+widest-ranging lineup,
+spanning a variety
+of outcome periods,
+exposures and buffer
+levels.
+
+OUTCOME PERIODS
+
+Visit innovatoretfs.com/
+define/etfs/#buffer for
+our full list of Buffer
+ETFs™.
+
+3-Month
+
+6-Month
+
+12-Month
+
+24-Month
+
+REFERENCE ASSETS
+U.S.
+Growth
+(QQQ)
+
+U.S. Large Cap
+(SPY)
+
+U.S. Small Cap
+(IWM)
+
+Int’l
+Dev’d
+(EFA
+
+EM
+(EEM)
+
+BUFFER LEVELS
+9%
+
+10%
+
+15%
+
+20%
+
+20%
+
+100%
+
+Buffer levels are stated gross of fees.
+
+Innovator Capital Management:
+Home of Defined Outcome ETFs™
+Rather than relying on stock selection or historical performance, Innovator’s risk-managed
+ETFs are designed to provide known levels of built-in risk management prior to investing.
+Instead of hoping to manage risk, Innovator ETFs enable investors to implement known
+levels of risk management with precision.
+TICKER NAME
+
+CATEGORY
+
+EXPENSE
+
+AAPR
+
+EQUITY DEFINED PROTECTION ETF
+
+100% BUFFER
+
+0.79%
+
+QFLR
+
+NASDAQ-100 MANAGED FLOOR ETF
+
+LADDERED FLOOR
+
+0.89%
+
+EALT
+
+US EQUITY 5 TO 15 BUFFER ETF
+
+HEDGED EQUITY
+
+0.69%
+
+Disclosures: The Fund’s investment objectives, risks, charges and expenses should be considered carefully before investing. The
+prospectus and summary prospectus contain this and other important information, and it may be obtained at innovatoretfs.com.
+Read it carefully before investing.
+
+24
+
+2025 THE TOP ETF INNOVATORS
+
+Pacer ETFs
+500 Chesterfield Parkway, Malvern PA, 19355 • www.paceretfs.com
+
+PACER ETFs
+Sean O’Hara
+President of Pacer
+ETF Distributors
+Sean O’Hara is the President
+of Pacer ETF Distributors.
+Sean began his career at
+PLANCO/Hartford in 1985,
+where he spent 22 years as
+wholesaler, divisional manager,
+and managing director of the
+national wholesaler team.
+In 2007, Sean joined Joe
+Thomson again, co-founder of
+PLANCO, at Pacer Financial to
+serve as a national wholesaling
+company for various products
+including exchange traded
+funds, exchange traded notes,
+Annuities, and SMAs.
+In 2015, Joe and Sean cofounded Pacer ETFs. Under
+their combined leadership,
+Pacer ETFs has become one
+of the fastest growing US ETF
+Companies. Sean often appears
+on Fox Business Network, CNBC,
+and various other news outlets
+to give insight into the market.
+Sean is a graduate of the
+Catholic University of America.
+
+Pacer ETFs is proud to provide financial
+advisors with unique, innovative, and
+disruptive investment solutions. The firm
+has a proven track record of delivering for
+advisors and investors through innovation
+amongst its peers. With 47 ETFs in its
+lineup, Pacer maintains a keen focus on
+high quality investment solutions that
+address unique market gaps.
+Pacer is also dedicated to investor
+education, publishing thoughtful content
+
+and educational information ranging from
+simple ETF explainers to more in-depth
+pieces that highlight complex areas of
+the market. With a total AUM of $45B,
+the firm has undergone significant growth
+over the last year, growing from $35B at
+the beginning of 2024 for an impressive
+29.55% growth rate.
+Pacer ETFs are distributed by Pacer
+Financial, Inc.
+
+Strategy Driven ETFs Designed to Help
+Investors Meet Their Goals
+Pacer ETFs is a 11-time award winning exchange traded fun provider that has been
+recognized for its client-focused philosophy. Pacer’s strategy driven ETFs serve as tools to
+help investors navigate turbulent markets. They use a rules-based management approach
+to track a variety of indexes like S&P, NASDAQ, and FTSE Russell.
+TICKER NAME
+
+CATEGORY
+
+EXPENSE
+
+COWZ
+
+PACER US CASH COWS 100 ETF
+
+LARGE CAP VALUE
+
+0.49%
+
+CALF
+
+PACER US SMALL CAP CASH COWS 100 ETF
+
+SMALL CAP VALUE
+
+0.59%
+
+COWG
+
+PACER US LARGE CAP CASH COWS GROWTH LEADERS ETF
+
+LARGE CAP GROWTH
+
+0.49%
+
+PTLC
+
+PACER TRENDPILOT US LARGE CAP ETF
+
+LARGE CAP BLEND
+
+0.60%
+
+QDPL
+
+PACER METAURUS US LARGE CAP DIVIDEND
+MULTIPLIER 400 ETF
+
+LARGE CAP DIVIDEND
+MULTIPLIER
+
+0.60%
+
+Disclosures
+Before investing you should carefully consider the Fund’s investment objectives, risks, charges, and expenses. This and other information is in the prospectus. A
+copy may be obtained by visiting www.paceretfs.com or calling 1-877-577-2000. Please read the prospectus carefully before investing.
+An investment in the Funds is subject to investment risk, including the possible loss of principal. Pacer ETF shares may be bought and sold on an exchange through a brokerage
+account. Brokerage commissions and ETF expenses will reduce investment returns. There can be no assurance that an active trading market for ETF shares will be developed or
+maintained. The risks associated with this fund are detailed in the prospectus and could include factors such as calculation methodology risk, concentration risk, derivatives risk,
+equity market risk, ETF risks, futures contracts risk, high portfolio turnover risk, large- and mid-capitalization investing risk, passive investment risk, tracking risk, sector risk,
+style risk, and/or special risks of exchange traded funds.
+Dividends Risk: There can be no assurance that a dividend-paying company will continue to make regular dividend payments. The ability for a company to pay dividends is
+dependent on the economic climate and the companies’ current earnings and capital resources. Changes in economic conditions or a company’s earnings or financial resources
+could cause a company to reduce its dividend payments or suspend the payment of dividends altogether. The possibility that such companies could reduce or eliminate the
+payment of dividends in the future, especially if the companies are facing an economic downturn, could negatively affect the Fund’s performance.
+NOT FDIC INSURED | MAY LOSE VALUE | NOT BANK GUARANTEED
+Distributor: Pacer Financial, Inc., member FINRA, SIPC, an affiliate of Pacer Advisors, Inc.
+Pacer Cash Cows ETFsTM and Cash Cows Index® are registered trademarks of Index Design Group, LLC.
+
+25
+
+2025 THE TOP ETF INNOVATORS
+
+Principal Asset Management
+711 High St, Des Moines, IA 50392
+www.principalam.com
+
+PRINCIPAL
+ASSET
+MANAGEMENT
+Matt Cohen
+Director, Senior
+ETF Specialist
+At Principal Asset Management,
+we understand the importance
+of offering investment vehicles
+that meet our clients’ needs.
+That is why over the last decade
+we have been building out our
+Exchange Traded Fund (ETF)
+platform to meet each investor’s
+unique goals. ETFs offer
+investors the following benefits
+across asset classes:
+• Diversification (pooled vehicle,
+where one ETF can give
+investors exposure to many
+stocks)
+• Accessibility/Liquidity (can be
+bought and sold throughout
+the day)
+• Transparency (ability to see
+underlying holdings)
+• Cost (usually very competitive
+from an expense standpoint)
+• Tax-efficiency (ETF structure
+usually has less taxable
+events)
+As active ETFs continue to
+carve out a larger space within
+the ETF ecosystem, investors
+can benefit from the active
+management history of Principal
+Asset Management, finding
+investment solutions to help
+navigate complexities and
+exploit emerging opportunities.
+
+With public and private market
+capabilities across all asset classes,
+Principal Asset ManagementSM and
+its investment specialists look at asset
+management through a different lens,
+creating solutions to help deliver client
+investment objectives. By applying
+local insights with global perspectives,
+Principal Asset Management identifies
+distinct and compelling investment
+opportunities for more than 1,100
+institutional clients in over 80 markets.1
+Throughout market cycles, our teams of
+
+specialists have applied local insights
+and global perspectives to optimize
+results. This clear point of view allows
+us to identify the most compelling
+opportunities now, while positioning for
+what’s next.
+Principal Asset Management is the
+global investment solutions business
+for Principal Financial Group® (Nasdaq:
+PFG), managing $540.4 billion2 in assets
+and recognized as a “Best Places to
+Work in Money Management” for 12
+consecutive years.3
+
+Principal ETFs Are Built with Portfolio
+Construction in Mind
+Access world-class investment teams within Principal Asset Management through our
+suite of actively managed ETF investment solutions. With a variety of strategies available to
+help meet investor goals, our ETF lineup is built on a legacy of outcome-oriented solutions.
+TICKER NAME
+
+CATEGORY
+
+EXPENSE
+
+USMC
+
+PRINCIPAL U.S. MEGA-CAP ETF
+
+LARGE BLEND
+
+0.15%
+
+PREF
+
+PRINCIPAL SPECTRUM PREFERRED SECURITIES ACTIVE ETF
+
+PREFERRED STOCK
+
+0.55%
+
+PSC
+
+PRINCIPAL U.S. SMALL-CAP ETF
+
+SMALL BLEND
+
+0.38%
+
+YLD
+
+PRINCIPAL ACTIVE HIGH YIELD ETF
+
+HIGH YIELD BOND
+
+0.39%
+
+BCHP
+
+PRINCIPAL FOCUSED BLUE CHIP ETF
+
+LARGE GROWTH
+
+0.58%
+
+¹As of September 30, 2023. ²As of December 31, 2023. ³Pensions & Investments, “Best Places to Work in Money Management”
+among companies with 1,000 or more employees. As of December 12, 2023.
+For Financial Professional/Institutional use only. May not be used with the public.
+Carefully consider a fund’s objectives, risks, charges, and expenses. For a prospectus, or summary prospectus if available, containing this and other information, visit
+www.PrincipalAM.com or call sales support at 800-787-1621. Please read it carefully before investing.
+Asset allocation and diversification do not ensure a profit or protect against a loss.
+ETFs can be tax efficient in that they are exchange-traded and redeem creation units from authorized participants by using redemptions in kind, which are not taxable transactions for the Fund.
+However, capital gains are still possible in an ETF, and if you reinvest the earnings of the ETF, you may owe taxes on your funds even if you didn’t sell any shares, potentially eating into your returns.
+© 2024, Principal Financial Services, Inc. Principal Asset ManagementSM is a trade name of Principal Global Investors, LLC. Principal®, Principal Financial Group®, Principal Asset Management, and
+Principal and the logomark design are registered trademarks and service marks of Principal Financial Services, Inc., a Principal Financial Group company, in various countries around the world and
+may be used only with the permission of Principal Financial Services, Inc.
+Principal Funds are distributed by Principal Funds Distributor, Inc. ALPS Distributors, Inc. is the distributor of the Principal ETFs. ALPS Distributors, Inc. and the Principal Funds are not affiliated.
+Investing involves risk, including possible loss of principal.
+MM13811B | 04/2024 | 3481670-062024 | PRI001381-062024
+
+26
+
+2025 THE TOP ETF INNOVATORS
+
+Sprott Asset Management
+Toronto, Ontario
+SprottETFs.com
+
+SPROTT ASSET
+MANAGEMENT
+John Ciampaglia,
+CFA, FCSI
+Chief Executive
+Officer
+Every aspect of energy
+production, transmission and
+storage requires resources that
+are mined—materials such as
+uranium, copper and others.
+As the world works to meet the
+growing energy requirements
+of rising middle classes and
+technologies such as AI,
+while also pursuing net-zero
+emission mandates, demand
+for critical materials is rising. In
+the process, the gap between
+critical material demand
+and projected supplies is
+widening—shining a spotlight
+on years of underinvestment in
+the mining sector.
+We believe renewing interest
+in mine production, rebuilding
+critical material supply chains,
+working toward energy security,
+and reshoring fuel sources may
+mean that uranium, copper
+and other miners may offer
+long-term growth potential for
+investors. We offer a suite of
+mining equity ETFs so you can
+pursue the opportunity.
+
+The clean energy transition is accelerating
+as global countries seek reliable, affordable
+sources of electricity and strive to reach netzero emissions by 2050. Today, 152 nuclear
+reactors are under construction or planned
+for construction,¹ electric vehicle adoption is
+reaching a tipping point, global energy grids
+are being upgraded, and wind, solar and
+other clean energy projects are proliferating.
+The demand for critical materials required for
+these projects—such as uranium, copper,
+silver, lithium, nickel and others—is quickly
+outstripping supply. As a result, we believe
+miners of these materials are incentivized
+
+to increase production and expand
+operations—positioning them for growth.
+Sprott Asset Management is a global
+leader in precious metals and critical
+materials investments. We are specialists,
+with decades of experience in the mining
+and commodity sectors. Our Sprott
+Energy Transition ETF suite offers pureplay exposure to critical minerals and their
+miners, making it easier to add exposure
+to essential energy transition materials
+like uranium, copper and battery metals to
+your portfolio.
+
+Sprott Energy Transition ETFs:
+Exposure to the Elements of Energy
+The Sprott Energy Transition ETFs provide investors with pure-play* investment exposure
+to the minerals critical to the world’s transition to clean energy through access to mining
+companies and physical materials that we believe are positioned to benefit from quickly
+increasing demand and limited supplies.
+TICKER NAME
+
+CATEGORY
+
+EXPENSE
+
+URNM
+
+SPROTT URANIUM MINERS ETF
+
+NATURAL RESOURCES
+
+0.75%
+
+URNJ
+
+SPROTT JUNIOR URANIUM MINERS ETF
+
+NATURAL RESOURCES
+
+0.80%
+
+COPP
+
+SPROTT COPPER MINERS ETF
+
+NATURAL RESOURCES
+
+0.65%
+
+COPJ
+
+SPROTT JUNIOR COPPER MINERS ETF
+
+NATURAL RESOURCES
+
+0.75%
+
+SETM
+
+SPROTT ENERGY TRANSITION MATERIALS ETF
+
+NATURAL RESOURCES
+
+0.65%
+
+*The term “pure-play” relates directly to the exposure that the Fund has to the total universe of investable, publicly listed securities in the
+investment strategy.
+
+¹Source: World Nuclear Association as of April 23, 2024.
+
+Before investing in the Sprott ETFs, you should consider each Fund’s investment objectives, risks, charges
+and expenses. Each Fund’s prospectus contains this and other information about the Fund and should be
+read carefully before investing. A prospectus can be obtained by calling 888.622.1813 or by visiting these
+links: Sprott Energy Transition Materials ETF Prospectus, Sprott Uranium Miners ETF Prospectus, Sprott Junior
+Uranium Miners ETF Prospectus, Sprott Copper Miners ETF Prospectus and Sprott Junior Copper Miners ETF
+Prospectus. The Funds are not suitable for all investors. Investors in the Funds should be willing to accept a high degree of volatility in the price of the Funds’ shares
+and the possibility of significant losses. An investment in the Funds involves a substantial degree of risk. The Funds are non-diversified and can invest a greater portion of
+assets in securities of individual issuers than a diversified fund. As a result, changes in the market value of a single investment could cause greater fluctuations in share
+price than would occur in a diversified fund. Brokerage commissions will reduce returns. “Authorized participants” may invest directly with the Fund, typically in blocks
+of 10,000 shares. These costs, which are not reflected in annual fund operating expenses, affect the Fund’s performance. Sprott Asset Management USA, Inc. is the
+Investment Adviser to the Sprott ETFs. Sprott Asset Management LP is the Sponsor of the Funds. ALPS Distributors, Inc. is the Distributor for the Sprott ETFs
+and is a registered broker-dealer and FINRA Member. ALPS Distributors, Inc. is not affiliated with Sprott Asset Management LP.
+This information is intended for investment professional use only. © 2024 Sprott Inc. All rights reserved.
+
+27
+
+2025 THE TOP ETF INNOVATORS
+
+Tema Global
+Brookfield Place, 200 Vesey St, Ste 24106, New York, NY 10281 • temaetfs.com
+
+TEMA GLOBAL
+Yuri Khodjamirian,
+CFA
+Chief Investment
+Officer
+Tema’s ETF solutions provide
+advisors with institutional grade,
+precision instruments which
+target the most compelling, and
+often overlooked, parts of the
+global equity markets. Tema’s
+mission is to empower advisors
+with innovative solutions
+focused on today’s most
+pressing and durable investment
+opportunities.
+The Tema platform also
+delivers insights and expertise
+from its team of investment
+managers, industry veterans,
+and thought leaders. Through
+an educational focus and whiteglove client service, Tema strives
+to deliver value and partner
+collaboratively with advisors
+large and small.
+
+Tema is on a mission to build institutional
+grade solutions accessing today’s most
+durable investment opportunities. Across life
+sciences, strategic equities, and alternatives,
+Tema’s innovative suite of products empowers
+investors to strengthen and diversify their
+portfolios. We look for unexplored and
+overlooked areas of the market that we believe
+are pressing and durable.
+We believe this is best delivered through a
+thoughtfully active approach. Our portfolio
+
+managers’ domain expertise and experience
+mean the products that we offer deliver
+precise exposure to long-term strategic
+investments. Unlike backward looking
+indices, our flexible investment process
+means that we always look forward and
+adjust to changing market environments.
+Finally, risk management is at our core,
+combining both fundamental and systematic
+principles in a multi-layered approach,
+to deliver the best possible outcome for
+investors.
+
+Strategic Active ETFs: Managed to
+Pursue Better Outcomes
+Tema’s suite of life sciences, strategic equity, and alternatives solutions provides investors
+with access to today’s most durable investment opportunities. Through a thoughtful,
+actively managed approach, Tema delivers world-class investment expertise, experience,
+and process, along with the convenience, low cost, and tax-efficiency of the ETF wrapper.
+TICKER NAME
+
+CATEGORY
+
+EXPENSE
+
+HRTS
+
+GLP-1, OBESITY & CARDIOMETABOLIC ETF
+
+HEALTHCARE
+
+0.75%
+
+RSHO
+
+AMERICAN RESHORING ETF
+
+STRATEGIC EQUITY
+
+0.75%
+
+CANC
+
+ONCOLOGY ETF
+
+HEALTHCARE
+
+0.75%
+
+TOLL
+
+MONOPOLIES & OLIGOPOLIES ETF
+
+STRATEGIC EQUITY
+
+0.55%
+
+MNTL
+
+NEUROSCIENCE AND MENTAL HEALTH ETF
+
+HEALTHCARE
+
+0.75%
+
+Risk Information
+Carefully consider the Fund’s investment objectives, risk factors, charges and expenses before investing. This and additional information can be found in the Fund’s
+prospectus or summary prospectus, which may be obtained by visiting www.temaetfs.com. Read the prospectus carefully before investing.
+Diversification does not ensure profits or prevent losses.
+Investing involves risk including possible loss of principal. The Funds may invest a significant portion of their assets in one or more sectors and thus will be more susceptible to
+the risks affecting those sectors than funds that have more diversified holdings across a number of sectors. There is no guarantee the adviser’s investment will be successful in
+identifying and investing in thematic trends.
+The small- and mid-capitalization companies in which the Funds invest may be more vulnerable to adverse business or economic events than larger, more established
+companies, and may underperform other segments of the market or the equity market as a whole.
+International and emerging market investing may involve risk of capital loss from unfavorable fluctuations in currency values, from differences in generally accepted accounting
+principles, or from economic or political instability in other nations. Frontier markets generally have less developed capital markets than traditional emerging market countries,
+and, consequently, the risks of investing in foreign securities are magnified in such countries.
+Because the Funds evaluate ESG factors to assess and exclude certain investments for non-financial reasons, the Funds may forego some market opportunities available to funds
+that do not use these ESG factors.
+Adviser: Tema Global Limited
+Distributor: Foreside Fund Services, LLC.
+
+28
+
+2025 THE TOP ETF INNOVATORS
+
+Touchstone Investments
+303 Broadway, Ste 1100, Cincinnati, OH 45202 • TouchstoneInvestments.com
+
+TOUCHSTONE
+INVESTMENTS
+Matt Barry
+Vice President,
+Product
+Management &
+Head of Capital
+Markets
+Touchstone offers “Distinctively
+Active” investment strategies.
+Distinctively Active strategies
+represent a subset of the active
+(i.e., non-indexed) strategies.
+These strategies connect
+investors with institutional asset
+managers who actively manage
+with high conviction and
+distinctive approaches, setting
+them apart from the benchmark.
+This difference is essential for
+outperforming the benchmark, a
+concept supported by academic
+research.
+Our research shows that
+many active management
+strategies have traits that
+limit their potential for strong
+performance. Therefore we
+focus on Distinctively Active
+strategies to give investors the
+best chance to benefit from
+active management.
+Touchstone ETFs combine
+the advantages of Distinctively
+Active investing with the
+benefits of an ETF structure
+such as tax-efficiency, liquidity
+and transparency.
+Investing involves risk
+including principal loss.
+
+Touchstone Investments, based in
+Cincinnati, Ohio is an asset management
+company and subsidiary of the Western
+& Southern Financial Group. Touchstone
+manages 35 mutual funds and 7 exchange
+traded funds (ETFs) through 15 subadvisers, overseeing over $28B in assets.
+Touchstone’s Distinctively Active philosophy
+ensures our clients receive top tier
+investment solutions.
+
+Versatile Investment Solutions: We provide
+investment solutions in various forms to
+meet the diverse needs of investors and
+financial professionals.
+
+Distinctively Active
+Recognizing the Difference: We
+understand that not all “Active” managers
+are the same. Many so-called active
+strategies suffer from closet indexing, asset
+bloat and over diversification. We focus on
+managers with proven institutional success
+and strategies that have the potential for
+future growth.
+
+Practice Analysis Review (PAR): We
+work with financial professionals to
+create solutions for their unique business
+challenges, beyond just investments.
+
+Global Talent Utilization: We are not limited
+to the talent within one firm. By using subadvisers to manage Touchstone’s strategies,
+we can find the best investment talent
+world-wide.
+Targeted Strategies: We offer strategies
+tailored for U.S.-based financial
+professionals who focus on Fixed Income,
+U.S. Equities and International/Global
+Equities.
+
+Partners in Practice
+Industry Leading Consulting: We work with
+financial professionals to create solutions for
+their unique business challenges, beyond
+just investments.
+
+Accountability and Collaboration:
+We stand out with our commitment to
+accountability, ongoing collaboration, and
+action planning to help achieve business
+goals.
+Touchstone sets itself apart by being
+Distinctively Active, focusing on quality
+and expertise and partnering closely with
+financial professionals to deliver excellent
+investment solutions and support.
+Touchstone Funds are distributed by
+Touchstone Securities, Inc.
+Touchstone ETFs are distributed by Foreside
+Fund Services LLC.
+
+Distinctively Active Investing
+Touchstone offers 7 Distinctively Active ETFs sub-advised by Fort Washington Investment
+Advisors, Lombard Odier Investment Managers and Los Angeles Capital Management. Our
+ETFs are offered in Income and International/Global Equity and US Equities asset classes.
+
+TICKER NAME
+
+CATEGORY
+
+EXPENSE
+
+TUSI
+
+TOUCHSTONE ULTRA SHORT INCOME ETF
+
+ULTRASHORT BOND
+
+0.25%
+
+TSEC
+
+TOUCHSTONE SECURITIZED INCOME ETF
+
+SHORT-TERM BOND
+
+0.40%
+
+TDI
+
+TOUCHSTONE DYNAMIC INTERNATIONAL ETF
+
+FOREIGN LARGE BLEND
+
+0.65%
+
+Please consider investment objectives, risks, charges and expenses of the fund carefully
+before investing. The prospectus contains this and other information about the Fund. To
+obtain a prospectus call 833-368-7383. Read the prospectus carefully before investing.
+
+29
+
+2025 THE TOP ETF INNOVATORS
+
+U.S. GLOBAL
+INVESTORS
+Frank Holmes
+CEO and CIO
+Frank Holmes is the CEO
+and chief investment officer
+of U.S. Global Investors
+(NASDAQ: GROW). He is the
+co-author of The Goldwatcher:
+Demystifying Gold Investing.
+Over 100,000 subscribers
+follow his weekly commentary
+in the award-winning Investor
+Alert newsletter, across social
+channels and in his Frank Talk
+blog, which is read in over 180
+countries.
+Under his guidance, the
+company’s mutual funds have
+received recognition from Lipper
+and Morningstar over the years.
+In 2015, Mr. Holmes led the
+company into the exchangetraded fund business with the
+launch of the U.S. Global Jets
+ETF (NYSE: JETS).
+In 2017, U.S. Global made a
+strategic investment in HIVE
+Digital Technologies (NASDAQ:
+HIVE). Mr. Holmes serves as
+Executive Chairman of HIVE,
+which is the first cryptocurrency
+mining company to go public.
+
+U.S. Global Investors
+7900 Callaghan Rd, San Antonio, TX 78229
+www.usglobaletfs.com
+
+U.S. Global Investors, Inc. functions
+as the investment advisor for the U.S.
+Global ETFs. Renowned for its innovative
+approach, U.S. Global Investors, Inc.
+leverages extensive experience in global
+markets and specialized sectors. Originally
+established as an investment club, the
+company transitioned into a registered
+investment advisor in 1968, boasting
+a rich history of pioneering investment
+products. Notably, U.S. Global Investors
+excels in gold and precious metals, natural
+resources, and emerging markets.
+
+Under the leadership of CEO Frank Holmes
+since 1989, who acquired a controlling
+interest in the company that same year,
+U.S. Global Investors continues to push
+boundaries. It embraces a quant approach
+to investing and introduces smart beta 2.0
+products, showcasing its commitment to
+innovation. As a publicly traded company
+(NASDAQ symbol: GROW) headquartered
+in San Antonio, Texas, U.S. Global
+Investors remains dedicated to delivering
+dynamic investment solutions to meet
+evolving investor needs.
+
+A Dynamic Approach to Quant Investing
+U.S. Global Investors offers thematic ETFs with a quant approach. Our smart beta 2.0 ETF
+lineup provides distinct portfolio diversification options.
+TICKER NAME
+
+CATEGORY
+
+EXPENSE
+
+JETS
+
+U.S. GLOBAL JETS ETF
+
+AIRLINE
+
+0.60%
+
+GOAU
+
+U.S. GLOBAL GO GOLD AND PRECIOUS
+METAL MINERS ETF
+
+GOLD & PRECIOUS
+METALS
+
+0.60%
+
+SEA
+
+U.S. GLOBAL SEA TO SKY CARGO ETF
+
+CARGO & SHIPPING
+
+0.60%
+
+Disclosures: Please consider carefully a fund’s investment objectives, risks, charges and expenses. For this and other important information, obtain a statutory and summary prospectus for JETS
+here, GOAU here and for SEA here. Read it carefully before investing.
+Distributed by Quasar Distributors, LLC. U.S. Global Investors is the investment adviser to JETS, GOAU and SEA.
+
+30
+
+2025 THE TOP ETF INNOVATORS
+
+VanEck
+666 Third Ave, New York, NY 10017
+www.vaneck.com/us/en/
+
+VANECK
+Ed Lopez
+Head of ETF
+Product
+As the person responsible for
+ETF product and marketing
+strategy, Ed Lopez is always
+on the lookout for untapped
+asset classes and opportunities
+to improve the core investor
+experience.
+Besides being an ETF industry
+expert, spokesperson and
+frequent panelist at conferences,
+Ed Lopez is also the host of
+VanEck’s Trends With Benefits
+podcast, talking to guests to
+uncover new ways of thinking
+about the markets, investing,
+work and life.
+
+For nearly 70 years, VanEck has sought to
+identify trends—economic, technological,
+political and social—that shape financial
+markets. We consider whether these
+create opportunities, perhaps even new
+asset classes, or present potential risks to
+existing portfolios. Through intelligently
+designed, competitively priced
+
+solutions, we empower investors to gain
+exposure effectively.
+Recently, we have taken significant strides
+to increase investor access to bitcoin
+and remain committed to arming investors
+with knowledge. We’re builders not just
+observers.
+
+“Don’t settle for the conventional.
+Dare to be different.” —CEO Jan van Eck
+VanEck was one of the first U.S. asset managers to offer investors access to international
+markets and recognized early the transformative potential of gold investing, emerging
+markets, ETFs and digital assets. Today, our firm’s capabilities range from core investment
+opportunities to more specialized exposures to enhance portfolio diversification.
+TICKER NAME
+
+CATEGORY
+
+EXPENSE
+
+MOAT
+
+VANECK MORNINGSTAR WIDE MOAT ETF
+
+US EQUITY
+
+0.47%
+
+SMOT
+
+VANECK MORNINGSTAR SMID MOAT ETF
+
+US SMID-CAP EQUITY
+
+0.49%
+
+CLOI
+
+VANECK CLO ETF
+
+INCOME
+
+0.40%
+
+HODL
+
+VANECK BITCOIN TRUST
+
+DIGITAL ASSETS
+
+WAIVED*
+
+DGIN
+
+VANECK DIGITAL INDIA ETF
+
+EQUITY
+
+0.71%
+
+For Financial Professional Use Only. Not for Retail Distribution.
+Investing involves substantial risk and high volatility, including possible loss of principal. An investor should consider the investment objective, risks, charges and
+expenses of a Fund carefully before investing. To obtain a prospectus and summary prospectus, which contain this and other information, call 800.826.2333 or visit
+vaneck.com. Please read the prospectus and summary prospectus carefully before investing.
+* During the period commencing on March 12, 2024, and ending on March 31, 2025, the Sponsor will waive the entire Sponsor Fee for the first $1.5 billion of the Trust’s assets.
+If the Trust’s assets exceed $1.5 billion prior to March 31, 2025, the Sponsor Fee charged on assets over $1.5 billion will be 0.20%. All investors will incur the same Sponsor Fee
+which is the weighted average of those fee rates. After March 31, 2025, the Sponsor Fee will be 0.20%. Please refer to the press release for more information.
+©Van Eck Securities Corporation, Distributor, a wholly-owned subsidiary of Van Eck Associates Corporation.
+This material must be preceded or accompanied by a prospectus. An investment in the Trust may not be suitable for all investors. Before investing you should
+carefully consider the VanEck Bitcoin Trust’s (the “Trust”) investment objectives, risks, charges and expenses.
+An investment in the Trust may involve significant risk, and may not be suitable for all investors. We use the generic term “ETF” to refer to exchange-traded
+investment vehicles, including those that are required to register under the Investment Company Act of 1940, as amended (the “40 Act”), as well as other exchangetraded products which are not subject to the registration of the ‘40 Act. The Fund is not registered under the 1940 Act and is not subject to regulation under the 1940
+Act, unlike most exchange traded products or ETFs. An investment in the Trust is subject to risks which include, but are not limited to, the historically and potentially
+future extreme volatility of bitcoin, various potential factors that may adversely affect the liquidity of Trust shares, the limited history of the Index from which the
+value of bitcoin and hence the value of Trust shares will be determined, potential threats to the Trust’s bitcoin custodian, and the unregulated nature and lack of
+transparency surrounding the operations of bitcoin trading platforms, all of which may ultimately adversely affect the value of shares of the Trust. Please note that
+this is not an exhaustive list of risks pertaining to the Trust. Please read carefully the prospectus for a complete list of potential risks. The Sponsor of the Trust is
+VanEck Digital Assets, LLC. The Marketing Agent for the Trust is Van Eck Securities Corporation. VanEck Digital Assets, LLC., and Van Eck Securities Corporation are
+wholly-owned subsidiaries of Van Eck Associates Corporation.
+
+31
+
+2025 THE TOP ETF INNOVATORS
+
+EXCHANGE-TRADED FUNDS
+GLOSSARY OF TERMS
+Master the exchange-traded funds industry terminology to
+help your clients better understand the opportunities ETFs
+provide. This Glossary of Terms can guide you through the
+Top ETF Innovators of 2024 Guide.
+Active Investing: The strategy of
+trying to outperform the market by
+selecting stocks, ETFs, or timing market
+movements. It’s challenging and often
+more challenging than it sounds.
+Alpha: The performance of your
+investment compared to the expected
+return for its risk level. If you do better
+than expected, you’ve got positive
+Alpha; if worse, it’s negative Alpha.
+Ask Price: The lowest price a seller is
+willing to accept for their stock or ETF.
+If a buyer agrees to this price, a sale
+happens. Otherwise, the price may
+decrease over time.
+Asset Class: Different types of
+investments, like stocks or bonds.
+Diversification involves spreading your
+investments across various asset
+classes to reduce risk.
+Beta: A measure of how much an
+investment’s price moves compared
+to the market. A beta of 1.5 means
+the investment’s price moves 50%
+more than the market.
+Bid Price: The highest price a buyer
+is willing to pay for a stock or ETF. The
+price must match the asking price for
+a sale to occur.
+Buffer (or Defined-Outcome)
+ETF: An ETF that limits your gains
+in exchange for protection against
+losses, often in return for a fee.
+Cap Size (Market Capitalization):
+The total value of a company’s shares
+of stock. It helps classify companies
+into large, mid, or small caps based
+on their total market value.
+
+Closed-End Fund (CEF): An
+investment fund with a fixed number
+of shares that doesn’t regularly issue
+new shares or redeem existing ones,
+possibly leading to price deviations
+from the net asset value.
+Closet Index Fund: A fund that
+charges like an actively managed fund
+but follows an index closely, not truly
+justifying its higher fees.
+Correlation: Measures how two
+investments move in relation to each
+other. A perfect positive correlation
+(1) means they move identically, a
+perfect negative correlation (-1) means
+they move in opposite directions,
+and no correlation (0) indicates their
+movements are unrelated.
+Diversification: Spreading
+investments across various asset
+classes to minimize risk. It’s a
+fundamental strategy to protect your
+portfolio from significant losses.
+EAFE Index: This index represents
+large-cap stocks from developed
+countries in Europe, Australia, and the
+Far East, often used as a benchmark
+for international stocks.
+Emerging Markets: Countries with
+developing economies that offer high
+growth potential but come with higher
+Expense Ratio: The annual fee
+charged by ETFs or mutual funds,
+expressed as a percentage of the
+fund’s assets. Lower expense ratios
+mean more of your money is invested
+rather than spent on fees.
+
+32
+
+Exposure: In the context of investing,
+exposure refers to the degree to which
+an investor is invested in a particular
+asset, asset class, or market. It
+indicates the potential risk and returns
+from that investment. High exposure
+to a specific market or sector means
+that an investor’s portfolio could
+significantly gain or lose value based
+on the performance of that market or
+sector. Managing exposure is key to
+diversification, aiming to balance risk
+and reward by spreading investments
+across various assets or markets.
+Fundamental Analysis: The
+assessment of a company’s financial
+health and prospects through its
+financial statements, to decide on
+the attractiveness of its stock as an
+investment.
+Growth Fund: Focuses on
+companies expected to grow at an
+above-average rate compared to their
+industry or the overall market, though
+these stocks may be more volatile.
+Hedging: Reducing risk by making
+investments that are expected to
+move in the opposite direction of your
+main investments. It’s like insurance
+against market movements.
+Indexing: Investing in a portfolio
+designed to replicate the performance
+of a market index. It’s a form of
+passive investing that usually incurs
+lower fees and taxes.
+iShares: A brand of ETFs managed
+by BlackRock, one of the largest
+providers of ETFs globally, known for
+a wide range of investment options.
+Leverage: Using borrowed money
+to increase the potential return on an
+investment. While it can amplify gains,
+it also increases the risk of losses.
+Liquidity: The ease with which an
+asset can be converted into cash
+without significantly affecting its price.
+High liquidity means you can quickly
+sell the asset at a fair price.
+
+2025 THE TOP ETF INNOVATORS
+Load: A sales charge or commission
+paid when buying or selling certain
+mutual funds, which does not apply to
+ETFs.
+Long Position: Buying securities with
+the expectation that their price will rise
+over time, allowing you to sell them at
+a profit later.
+Modern Portfolio Theory (MPT): A
+strategy that emphasizes the benefits
+of diversification. You can create a
+portfolio of investments with lower
+risk than individual investments by
+choosing assets that don’t move in
+the same direction.
+Passive Investing: Buying and holding
+a portfolio of stocks or ETFs that track
+an index, believing that over time, this
+strategy will outperform active trading.
+It’s less expensive and often results in
+better long-term returns.
+Price/Earnings (P/E) Ratio: A metric
+to evaluate a company’s stock price
+relative to its earnings. A high P/E
+ratio might indicate a growth stock,
+while a low P/E ratio could suggest a
+value stock.
+Qubes: A colloquial term for the
+ETF that tracks the NASDAQ-100
+Index, representing 100 of the largest
+nonfinancial companies on the
+NASDAQ stock market.
+R squared (R²): Shows how much of
+a fund’s movements can be explained
+by movements in its benchmark index.
+A higher R² indicates a closer match
+to the index.
+REIT (real estate investment trust):
+An investment in real estate companies
+or properties that pays dividends.
+REITs can be more sensitive to interest
+rate changes but offer a different risk/
+return profile than stocks or bonds.
+Risk: In investing, risk is typically seen
+as the volatility or the degree to which
+an asset’s price can change. High risk
+is associated with greater potential
+returns and more significant potential
+losses.
+
+Sector Investing: Focusing your
+investments in specific sectors of
+the economy, like technology or
+healthcare, believing these sectors will
+outperform others.
+
+Tax-Loss Harvesting: Selling
+securities at a loss to offset capital
+gains taxes. This strategy can lower
+your tax bill while allowing you to
+reinvest in similar assets.
+
+Sharpe Ratio: A measure of the
+return an investment provides relative
+to its risk. Higher Sharpe ratios
+indicate better risk-adjusted returns.
+
+Technical Analysis: Using historical
+market data and charts to predict future
+price movements. While popular, its
+effectiveness is widely debated.
+
+Short Position: Borrowing a stock or
+security and selling it with the plan to
+repurchase it later at a lower price. This
+strategy profits from declining prices.
+
+Ticker: A unique series of letters
+assigned to a stock, mutual fund, or
+ETF for identification. It’s used when
+trading on stock exchanges.
+
+Sophisticated Investor: This is not
+just someone who trades frequently
+or uses complex strategies but also
+an investor who achieves long-term
+success through a well-diversified, lowcost portfolio, often including ETFs.
+
+Transparency: The ease with which
+investors can see an investment’s
+underlying assets or holdings, like
+an ETF. This visibility can influence
+investment decisions.
+
+SPDRs: A series of ETFs provided by
+State Street Global Advisors, known
+for their wide range of investment
+options and significant presence in the
+ETF market.
+Spread: The difference between the
+buying price (ask) and the selling price
+(bid) of a stock or ETF. A narrower
+spread indicates a more liquid market.
+Standard Deviation: A statistical
+measure of the range of an
+investment’s returns. A higher
+standard deviation indicates more
+volatility and, therefore, higher risk.
+Style Investing: Allocating investments
+according to certain characteristics, like
+size (large-cap, small-cap) or investment
+approach (value, growth), to achieve
+diversification.
+
+Turnover: The rate at which a
+fund buys and sells its assets. High
+turnover can lead to higher transaction
+costs and tax liabilities for investors.
+Value Fund: An investment fund
+focusing on stocks considered
+undervalued in price and poised for
+growth. These funds aim to buy low
+and sell high.
+Value Premium: The historical
+observation that stocks with lower
+price-to-earnings ratios have
+outperformed those with higher ratios
+over long periods.
+Volatility: The extent to which the
+price of an asset fluctuates over
+time. High volatility means large price
+swings, which can lead to higher
+returns or more significant losses.
+
+Style Drift: Occurs when a fund
+manager deviates from the fund’s
+stated investment strategy, potentially
+altering its risk and return profile.
+
+Yield: The income return on an
+investment, such as dividends or
+interest, expressed as a percentage
+of the investment’s cost or current
+market value.
+
+Tax Efficiency: A characteristic
+of investments that minimize tax
+payments, allowing investors to keep
+more of their returns. ETFs are often
+more tax-efficient than mutual funds.
+
+YTD (Year-To-Date): The return on
+investment from the beginning of the
+current calendar year to the current
+date. It reflects the investment’s
+performance over this period.
+
+33
+
+2025 THE TOP ETF INNOVATORS
+
+CONTRIBUTORS
+
+Jerry Cooper
+
+Jerry Cooper is a contributing editor and
+Publisher of The Wealth Advisor. Mr. Cooper
+has been in the financial services industry for
+nearly four decades—and has been working
+closely with model providers and strategists
+for much of the last 8 years. His knowledge
+of the industry, which messages will resonate,
+how to capture the attention of advisors, and
+the entire sales process—is second to none.
+Jerry is also the publisher of The Wealth Advisor
+where serves in a leadership role over both the
+editorial and advertising departments.
+
+THE TOP ETF
+INNOVATORS
+Publisher: Jerry Cooper
+Editor-in-Chief: Scott Martin
+Editorial Project Manager:
+Monica Boyer
+Contributors: Jerry Cooper,
+Scott Martin
+Art Director: Scott W. Valenzano
+
+How to Reach
+the Wealth Advisor Staff
+Subscriber Services & Circulation
+subscriber.services@
+thewealthadvisor.com
+Editorial and Letters to the Editor
+robert.martin@marinamediallc.com
+
+Scott Martin
+
+Madeline
+Garfinkle
+
+Scott Martin came to The Wealth Advisor
+after nearly a decade in hedge fund land once
+it became clear that the individual advisor had
+been his true passion all along. He knows what
+frustrates and excites financial intermediaries
+at all levels of the industry and has written
+endlessly about the ways technology, client
+demand patterns and innovation keep creating
+opportunities as well as challenges. You might
+have seen some of it in places like Research,
+Buyside and Institutional Investor (and ALPHA). If
+you’re reading this, you know how to reach him.
+
+Madeline Garfinkle is a Marketing and
+Communications Writer for The Wealth
+Advisor, focusing on wealth management
+and financial planning. With over seven
+years of digital media experience, including
+three years as a financial writer and
+journalist, she’s driven by the intersection
+of technology and economy, economic
+decision-making psychology, and investment
+industry nuances. Previously, Madeline
+was a News Writer for Entrepreneur
+Magazine, contributing to print and digital
+platforms on topics like the housing market,
+cryptocurrency, and franchise industry. She
+holds a degree from Syracuse University and
+earned her Masters from Columbia University
+in 2021.​​​​​​​​​​​​​​​​
+
+34
+
+Advertising Opportunities
+Chris Panagakis
+chris.panagakis@marinamediallc.com
+Reprints and Licensing
+jerry.cooper@marinamediallc.com
+
+How to Reach
+the Wealth Advisor
++1 (800) 392-8811
+TheWealthAdvisor.com
+401 Wilshire Blvd. Suite 1200,
+Santa Monica, CA 90401
+© 2024 The Wealth Advisor, All Rights
+Reserved. Any reproduction all or in part
+is strictly prohibited without consent.
+America’s Best Direct Indexing Buyers
+Guide PDF Magazine edition is updated
+quarterly. All data presented is fully
+owned by and provided by each provider.
+Each provider is responsible for its accuracy. Disclaimer: The Wealth Advisor,
+TheWealthAdvisor.com and The Wealth
+Advisor e-newsletter (TWA) are not affiliated with any of the providers in this
+Dashboard. TWA makes no representations or warranties of any kind regarding
+the content hereof or any products or
+services described herein, including any
+warranties, express or implied, as to the
+accuracy, timeliness, completeness, or
+suitability of such content or products and
+will not be liable for any damages (including, without limitation, damages for lost
+profits) which may arise from the use of
+any participating provider’s services.
+
+401 WILSHIRE BLVD., SUITE 1200 SANTA MONICA, CALIFORNIA 90401
+PHONE: (800) 392-8811
+THEWEALTHADVISOR.COM
+
+
